@@ -1,0 +1,950 @@
+MORRIS DESCRIPTIVE PASSAGES
+Extracted from: The Well at the World's End
+Passages retained: 76
+Thresholds: dialogue<0.3, attribution<3, descriptive>0.18
+======================================================================
+
+[1] BOOK ONE | Ch.1 — The Sundering of the Ways
+    Score: 0.368 | Words: 148 | Spatial hits: 10 | Action hits: 0
+
+So having nought but this little they longed for much; and that the
+more because, king's sons as they were, they had but scant dominion
+save over their horses and dogs: for the men of that country were
+stubborn and sturdy vavassors, and might not away with masterful
+doings, but were like to pay back a blow with a blow, and a foul word
+with a buffet.  So that, all things considered, it was little wonder if
+King Peter's sons found themselves straitened in their little land:
+wherein was no great merchant city; no mighty castle, or noble abbey of
+monks:  nought but fair little halls of yeomen, with here and there a
+franklin's court or a shield-knight's manor-house; with many a goodly
+church, and whiles a house of good canons, who knew not the road to
+Rome, nor how to find the door of the Chancellor's house.
+
+----------------------------------------------------------------------
+
+[2] BOOK ONE | Ch.3 — Ralph Cometh to the Cheaping-Town
+    Score: 0.204 | Words: 167 | Spatial hits: 3 | Action hits: 2
+
+Therewith the carle led him into the house; and if it were goodly
+without, within it was better.  For there was a fair chamber panelled
+with wainscot well carven, and a cupboard of no sorry vessels of silver
+and latten: the chairs and stools as fair as might be; no king's might
+be better: the windows were glazed, and there were flowers and knots
+and posies in them; and the bed was hung with goodly web from over sea
+such as the soldan useth.  Also, whereas the chapman's ware-bowers were
+hard by the chamber, there was a pleasant mingled smell therefrom
+floating about.  The table was set with meat and drink and vessel of
+pewter and earth, all fair and good; and thereby stood the chapman's
+wife, a very goodly woman of two-score years, who had held Ralph at the
+font when she was a slim damsel new wedded; for she was come of no mean
+kindred of the Kingdom of Upmeads: her name was Dame Katherine.
+
+----------------------------------------------------------------------
+
+[3] BOOK ONE | Ch.5 — Ralph Cometh to Higham-on-the-Way
+    Score: 0.256 | Words: 95 | Spatial hits: 6 | Action hits: 2
+
+Nought more befell Ralph to tell of till he came to the end of the
+Downs and saw Higham lying below him overlooked by a white castle on a
+knoll, and with a river lapping it about and winding on through its
+fair green meadows even as Clement had told.  From amidst its houses
+rose up three towers of churches above their leaden roofs, and high
+above all, long and great, the Abbey Church; and now was the low sun
+glittering on its gilded vanes and the wings of the angels high upon
+the battlements.
+
+----------------------------------------------------------------------
+
+[4] BOOK ONE | Ch.5 — Ralph Cometh to Higham-on-the-Way
+    Score: 0.263 | Words: 119 | Spatial hits: 7 | Action hits: 2
+
+Ralph gainsaid him not, and they bored through the throng of the street
+till they came into the market-square, which was very great and clean,
+paved with stones all over:  tall and fair houses rose up on three
+sides of it, and on the fourth was the Great Church which made those
+houses seem but low: most of it was new-built; for the lord Abbot that
+then was, though he had not begun it, had taken the work up from his
+forerunner and had pushed it forward all he might; for he was very
+rich, and an open-handed man.  Like dark gold it showed under the
+evening sun, and the painted and gilded imagery shone like jewels upon
+it.
+
+----------------------------------------------------------------------
+
+[5] BOOK ONE | Ch.5 — Ralph Cometh to Higham-on-the-Way
+    Score: 0.180 | Words: 97 | Spatial hits: 8 | Action hits: 2
+
+He pointed to the windows of the hall therewith, and lo! they grew
+yellow and bright with some fire without, as if a new fiery day had
+been born out of the dusk of the summer night; for the light that shone
+through the windows out-did the candle-light in the hall.  Ralph
+started thereat and laid his right hand to the place of his sword,
+which indeed he had left with the chamberlain; but the monk laughed and
+said:  "Fear nothing, lord; there is no foeman in Higham: come now,
+lest thou be belated of the show."
+
+----------------------------------------------------------------------
+
+[6] BOOK ONE | Ch.5 — Ralph Cometh to Higham-on-the-Way
+    Score: 0.263 | Words: 80 | Spatial hits: 3 | Action hits: 1
+
+There were rows of men-at-arms in bright armour also to keep the folk
+in their places, like as hurdles pen the sheep up; howbeit they were
+nowise rough with folk, but humble and courteous.  Many and many were
+the torches and cressets burning steadily in the calm air, so that, as
+aforesaid, night was turned into day.  But on the scaffold aforesaid
+were standing bright and gay figures, whose names or what they were
+Ralph had no time to ask.
+
+----------------------------------------------------------------------
+
+[7] BOOK ONE | Ch.6 — Ralph Goeth His Ways From the Abbey of St. Mary at Higham
+    Score: 0.224 | Words: 39 | Spatial hits: 2 | Action hits: 0
+
+And brown are my feet now because the sun burneth
+    High up on the down-side amidst of the sheep,
+  And there in the hollow wherefrom the wind turneth,
+    Thou lay'st in my lap while I sung thee to sleep.
+
+----------------------------------------------------------------------
+
+[8] BOOK ONE | Ch.7 — The Maiden of Bourton Abbas
+    Score: 0.213 | Words: 62 | Spatial hits: 7 | Action hits: 2
+
+There was a goodly fauburg outside the gate, and therein were fair
+houses, not a few, with gardens and orchards about them; and when these
+were past he rode through very excellent meadows lying along the water,
+which he crossed thrice, once by a goodly stone bridge and twice by
+fords; for the road was straight, and the river wound about much.
+
+----------------------------------------------------------------------
+
+[9] BOOK ONE | Ch.7 — The Maiden of Bourton Abbas
+    Score: 0.287 | Words: 43 | Spatial hits: 5 | Action hits: 1
+
+After a little while the road led him off the plain meads into a
+country of little hills and dales, the hill-sides covered with
+vineyards and orchards, and the dales plenteous of corn-fields; and now
+amongst these dales Higham was hidden from him.
+
+----------------------------------------------------------------------
+
+[10] BOOK ONE | Ch.11 — Now Must Ralph Ride For It
+    Score: 0.249 | Words: 102 | Spatial hits: 3 | Action hits: 1
+
+So Ralph considered and thought that there lay indeed but little peril
+to him in the Burg, whereas both those men with whom he had striven
+were hushed for ever, and there was none else to tell the tale of the
+battle, save the lady, whose peril from them of the Burg was much
+greater than his; and also he thought that if anything untoward befel,
+he had some one to fall back on in old Oliver:  yet on the other hand
+he had a hankering after Hampton under Scaur, where, to say sooth, he
+doubted not to see the lady again.
+
+----------------------------------------------------------------------
+
+[11] BOOK ONE | Ch.12 — Ralph Entereth Into the Burg of the Four Friths
+    Score: 0.238 | Words: 116 | Spatial hits: 4 | Action hits: 2
+
+Roger nodded his head and grumbled somewhat, and they made no stay
+except that now and again Ralph drew rein to look at goodly things in
+the street, for there were many open booths therein, so that the whole
+street looked like a market.  The houses were goodly of building, but
+not very tall, the ways wide and well-paved. Many folk were in the
+street, going up and down on their errands, and both men and women of
+them seemed to Ralph stout and strong, but not very fair of favour.
+Withal they seemed intent on their business, and payed little heed to
+Ralph and his fellow, though he was by his attire plainly a stranger.
+
+----------------------------------------------------------------------
+
+[12] BOOK ONE | Ch.13 — The Streets of the Burg of the Four Friths
+    Score: 0.321 | Words: 92 | Spatial hits: 6 | Action hits: 0
+
+Clashed sword on shield In the harvest field;
+    And no man blames The red red flames,
+    War's candle-wick On roof and rick.
+    Now dead lies the yeoman unwept and unknown
+    On the field he hath furrowed, the ridge he hath sown:
+    And all in the middle of wethers and neat
+    The maidens are driven with blood on their feet;
+    For yet 'twixt the Burg-gate and battle half-won
+    The dust-driven highway creeps uphill and on,
+    And the smoke of the beacons goes coiling aloft,
+    While the gathering horn bloweth loud, louder and oft.
+
+----------------------------------------------------------------------
+
+[13] BOOK ONE | Ch.13 — The Streets of the Burg of the Four Friths
+    Score: 0.248 | Words: 100 | Spatial hits: 2 | Action hits: 0
+
+Throw wide the gates
+    For nought night waits;
+    Though the chase is dead
+    The moon's o'erhead
+    And we need the clear
+    Our spoil to share.
+    Shake the lots in the helm then for brethren are we,
+    And the goods of my missing are gainful to thee.
+    Lo! thine are the wethers, and his are the kine;
+    And the colts of the marshland unbroken are thine,
+    With the dapple-grey stallion that trampled his groom;
+    And Giles hath the gold-blossomed rose of the loom.
+    Lo! leaps out the last lot and nought have I won,
+    But the maiden unmerry, by battle undone.
+
+----------------------------------------------------------------------
+
+[14] BOOK ONE | Ch.15 — How Ralph Departed From the Burg of the Four Friths
+    Score: 0.241 | Words: 72 | Spatial hits: 3 | Action hits: 1
+
+Within a while they all slacked somewhat, and presently did but walk,
+though swiftly, through the paths of the thicket, which Ralph deemed
+full surely was part of that side of the Wood Perilous that lay south
+of the Burg of the Four Friths.  And now Roger joined himself to him,
+and spake to him aloud and said: "So, fair master, thou art out of the
+peril of death for this bout."
+
+----------------------------------------------------------------------
+
+[15] BOOK ONE | Ch.17 — Ralph Cometh to the House of Abundance
+    Score: 0.192 | Words: 68 | Spatial hits: 10 | Action hits: 4
+
+At last they came out of the close wood suddenly into an open plain,
+and now, as the twilight of the dawn was passing into early day, they
+saw that wide grassy meadows and tilled fields lay before them, with a
+little river running through the plain; and amidst the meadows, on a
+green mound, was a white castle, strong, and well built, though not of
+the biggest.
+
+----------------------------------------------------------------------
+
+[16] BOOK ONE | Ch.18 — "Wilt thou into the wildwood?" said she.
+    Score: 0.195 | Words: 39 | Spatial hits: 1 | Action hits: 0
+
+Indeed his raiment was goodly, for his surcoat was new, and it was of
+fine green cloth, and the coat-armour of Upmead was beaten on it, to
+wit, on a gold ground an apple-tree fruited, standing by a river-side.
+
+----------------------------------------------------------------------
+
+[17] BOOK ONE | Ch.18 — "Wilt thou into the wildwood?" said she.
+    Score: 0.250 | Words: 66 | Spatial hits: 3 | Action hits: 1
+
+Long he abode in that chamber looking at the arras, and wondering
+whether the sitter in the ivory throne would be any other than the
+thrall in the greenwood cot.  He abode there so long that the dusk
+began to gather in the house, and he could see the images no more; for
+he was filled with the sweetness of desire when he looked on them.
+
+----------------------------------------------------------------------
+
+[18] BOOK ONE | Ch.21 — Ralph Weareth Away Three Days Uneasily
+    Score: 0.182 | Words: 40 | Spatial hits: 2 | Action hits: 1
+
+At last, a little after dark, back comes the carline again, and he met
+her at the door of the hall, for he was weary of his own company, and
+the ceaseless turning over and over of the same thoughts.
+
+----------------------------------------------------------------------
+
+[19] BOOK ONE | Ch.22 — An Adventure in the Wood
+    Score: 0.286 | Words: 97 | Spatial hits: 3 | Action hits: 1
+
+She spake not, but stood quietly looking on him, not unkindly, while a
+wind came up from the water and played with a few light locks of hair
+that hung down from that ruddy crown, and blew her raiment from her
+feet and wrapped it close round her limbs; and Ralph beheld her, and
+close as was the very death to him (for huge and most warrior-like was
+his foeman) yet longing for her melted the heart within him, and he
+felt the sweetness of life in his inmost soul as he had never felt it
+before.
+
+----------------------------------------------------------------------
+
+[20] BOOK ONE | Ch.24 — Supper and Slumber in the Woodland Hall
+    Score: 0.181 | Words: 120 | Spatial hits: 3 | Action hits: 2
+
+Amidst all this the sun was set, and the long water lay beneath the
+heavens like a sheet of bright, fair-hued metal, and naught stirred it:
+till at last the Lady leaned forward to Ralph, and touched his shoulder
+(for he was sitting over against her, with his back to the water), and
+she said: "Sir Knight, Sir Knight, his wish is coming about, I believe
+verily." He turned his head to look over his shoulder, and, as if by
+chance-hap, his cheek met the outstretched hand she was pointing with:
+she drew it not away very speedily, and as sweet to him was the touch
+of it as if his face had been brushed past by a summer lily.
+
+----------------------------------------------------------------------
+
+[21] BOOK TWO | Ch.1 — Ralph Meets With Love in the Wilderness
+    Score: 0.240 | Words: 72 | Spatial hits: 5 | Action hits: 2
+
+Yet a little further, and it grew lighter still, and he heard the
+throstles singing a little way off, and knew that they were on the edge
+of the pine-wood, and still her swift feet sped on till they came to a
+little grassy wood-lawn, with nought anear it on the side away from the
+wood save maples and thorn-bushes: it was broad daylight there, though
+the sun had not yet arisen.
+
+----------------------------------------------------------------------
+
+[22] BOOK TWO | Ch.7 — The Lady Tells Somewhat of Her Doings After She Left the Wilderness
+    Score: 0.200 | Words: 42 | Spatial hits: 2 | Action hits: 0
+
+"Nay, my friend, thou hast no need to look so troubled; for thou seest
+that I was not burned.  This is the selfsame body that was tied to the
+stake in the market place of the king's city many a year ago.
+
+----------------------------------------------------------------------
+
+[23] BOOK TWO | Ch.7 — The Lady Tells Somewhat of Her Doings After She Left the Wilderness
+    Score: 0.228 | Words: 54 | Spatial hits: 2 | Action hits: 0
+
+"And now began the sore troubles of that land, which had been once so
+peaceful and happy; the tale whereof I may one day tell thee; or rather
+many tales of what befell me therein; but not now; for the day weareth;
+and I still have certain things that I must needs tell thee.
+
+----------------------------------------------------------------------
+
+[24] BOOK TWO | Ch.7 — The Lady Tells Somewhat of Her Doings After She Left the Wilderness
+    Score: 0.189 | Words: 231 | Spatial hits: 6 | Action hits: 2
+
+"As for me, I had many tribulations.  Thrice I fled from the stricken
+field with my lord to hide in some stronghold of the mountains.  Once
+was I taken of the foemen in the town where I abode when my lord was
+away from me, and a huge slaughter of innocent folk was made, and I was
+cast into prison and chains, after I had seen my son that I had borne
+to my lord slain before mine eyes.  At last we were driven clean out of
+the Kingdom of the Tower, and abode a long while, some two years, in
+the wilderness, living like outlaws and wolves' heads, and lifting the
+spoil for our livelihood.  Forsooth of all the years that I abode about
+the Land of Tower those were the happiest.  For we robbed no poor folk
+and needy, but rewarded them rather, and drave the spoil from rich men
+and lords, and hard-hearted chapmen-folk: we ravished no maid of the
+tillers, we burned no cot, and taxed no husbandman's croft or acre, but
+defended them from their tyrants.  Nevertheless we gat an ill name wide
+about through the kingdoms and cities; and were devils and witches to
+the boot of thieves and robbers in the mouths of these men; for when
+the rich man is hurt his wail goeth heavens high, and none may say he
+heareth not.
+
+----------------------------------------------------------------------
+
+[25] BOOK TWO | Ch.7 — The Lady Tells Somewhat of Her Doings After She Left the Wilderness
+    Score: 0.234 | Words: 35 | Spatial hits: 3 | Action hits: 1
+
+"Dear friend, when thou knowest what these men are and have been thou
+wilt bless thy friend Roger for leading thee forth from the Burg by
+night and cloud, whatever else may happen to thee.
+
+----------------------------------------------------------------------
+
+[26] BOOK TWO | Ch.7 — The Lady Tells Somewhat of Her Doings After She Left the Wilderness
+    Score: 0.201 | Words: 41 | Spatial hits: 3 | Action hits: 2
+
+"Moreover, his father, the King of the Tower, died in his bed in these
+days, and no word of love or peace had passed between them since that
+morning when I was led out to be burned in the Great Square.
+
+----------------------------------------------------------------------
+
+[27] BOOK TWO | Ch.8 — The Lady Maketh an End of Her Tale
+    Score: 0.181 | Words: 133 | Spatial hits: 3 | Action hits: 2
+
+"But in those past days it was needs must we begin our quest before the
+burden of years was over heavy upon us.  Shortly to say it, we found
+the Well, and drank of its waters after abundant toil and peril, as
+thou mayst well deem.  Then the life and the soul came back to us, and
+the past years were as naught to us, and my youth was renewed in me,
+and I became as thou seest me to-day. But my fellow was as a woman of
+forty summers again, strong and fair as I had seen her when she came
+into the garden in the days of my Queenhood, and thus we returned to
+the House of the Sorceress, and rested there for a little from our
+travel and our joy.
+
+----------------------------------------------------------------------
+
+[28] BOOK TWO | Ch.10 — Of the Desert-House and the Chamber of Love in the Wilderness
+    Score: 0.210 | Words: 48 | Spatial hits: 2 | Action hits: 0
+
+Yet must he needs finish bending the bow howsoever his heart died
+within him; or what help would there be of a naked and unarmed man?  At
+last it was bent and an arrow nocked on the string, as he leapt over
+the river and up the slope.
+
+----------------------------------------------------------------------
+
+[29] BOOK TWO | Ch.10 — Of the Desert-House and the Chamber of Love in the Wilderness
+    Score: 0.229 | Words: 51 | Spatial hits: 2 | Action hits: 0
+
+Scarce had he spoken than Ralph drew his bow to the arrow-head and
+loosed; there was but some twenty paces betwixt them, and the shaft,
+sped by that fell archer, smote the huge man through the eye into the
+brain, and he fell down along clattering, dead without a word more.
+
+----------------------------------------------------------------------
+
+[30] BOOK TWO | Ch.18 — Ralph Departeth From Whitwall With the Fellowship of Clement Chapman
+    Score: 0.197 | Words: 77 | Spatial hits: 4 | Action hits: 2
+
+So Ralph cast his arms about Richard, and kissed him and said: "This is
+also a farewell to the House where I was born and bred." And as he
+spake the thought of the House and the garden, and the pleasant fields
+of Upmeads came into his heart so bitter-sweet, that it mingled with
+his sorrow, and well-nigh made him weep.  But as for Richard he
+forebore words, for he was sad at heart for the sundering.
+
+----------------------------------------------------------------------
+
+[31] BOOK TWO | Ch.18 — Ralph Departeth From Whitwall With the Fellowship of Clement Chapman
+    Score: 0.249 | Words: 39 | Spatial hits: 2 | Action hits: 0
+
+But Ralph fell to speech with the chapmen and men-at-arms; and both of
+these were very courteous with him; for they rejoiced in his company,
+and especially the chapmen, who were somewhat timorous of the perils of
+the road.
+
+----------------------------------------------------------------------
+
+[32] BOOK TWO | Ch.20 — They Come to the Mid-Mountain Guest-House
+    Score: 0.183 | Words: 61 | Spatial hits: 2 | Action hits: 1
+
+So they went into the House, and men had all that they might need.  The
+warden was an old hoar man, and his wife well-stricken in years; and
+after supper was talk of this and that, and it fell much, as was like
+to be, on those strong-thieves, and Clement asked the warden what he
+had seen of them of late.
+
+----------------------------------------------------------------------
+
+[33] BOOK TWO | Ch.21 — A Battle in the Mountains
+    Score: 0.265 | Words: 55 | Spatial hits: 6 | Action hits: 1
+
+All day they rode, and at even when the sun had not quite set, they
+pitched their camp at the foot of a round knoll amidst a valley where
+was water and grass; and looking down thence, they had a sight of the
+fruitful plain, wherein lay Cheaping Knowe all goodly blue in the
+distance.
+
+----------------------------------------------------------------------
+
+[34] BOOK TWO | Ch.21 — A Battle in the Mountains
+    Score: 0.256 | Words: 54 | Spatial hits: 3 | Action hits: 1
+
+So after a while, when it was a little past noon, they came adown to
+the lower slopes of the mountains and the foot-hills, which were green
+and unstony; and thereon were to be seen cattle and neatherds and
+shepherds, and here and there the garth of a homestead, and fenced
+acres about it.
+
+----------------------------------------------------------------------
+
+[35] BOOK TWO | Ch.23 — Of the Town of Cheaping Knowe
+    Score: 0.217 | Words: 123 | Spatial hits: 11 | Action hits: 2
+
+They came to the gates a little before sunset, after they had passed
+through much fair country; but nigh to the walls it was bare of trees
+and thickets, whereas, said Clement, they had been cut down lest they
+should serve as cover to strong-thieves or folk assailing the town.
+The walls were strong and tall, and a great castle stood high up on a
+hill, about which the town was builded; so that if the town were taken
+there would yet be another town within it to be taken also.  But the
+town within, save for the said castle, was scarce so fairly builded as
+the worst of the towns which Ralph had seen erst, though there were a
+many houses therein.
+
+----------------------------------------------------------------------
+
+[36] BOOK TWO | Ch.23 — Of the Town of Cheaping Knowe
+    Score: 0.208 | Words: 44 | Spatial hits: 4 | Action hits: 2
+
+Thus they rode through the streets into the market place, which was
+wide and great, and the best houses of the town were therein, and so
+came to the hostel of the Merchants, called the Fleece, which was a big
+house, and goodly enough.
+
+----------------------------------------------------------------------
+
+[37] BOOK TWO | Ch.23 — Of the Town of Cheaping Knowe
+    Score: 0.200 | Words: 75 | Spatial hits: 3 | Action hits: 2
+
+Then they came to great gardens within the town, and they were
+exceeding goodly, and had trees and flowers and fruits in them which
+Ralph had not seen hitherto, as lemons, and oranges, and pomegranates;
+and the waters were running through them in runnels of ashlar; and the
+weather was fair and hot; so they rested in those gardens till it was
+evening, and then gat them home to Fleece, where they had good
+entertainment.
+
+----------------------------------------------------------------------
+
+[38] BOOK TWO | Ch.26 — They Ride the Mountains Toward Goldburg
+    Score: 0.278 | Words: 69 | Spatial hits: 3 | Action hits: 1
+
+Seven days they rode the mountains, and the way was toilsome and weary
+enough, for it was naught but a stony maze of the rocks where nothing
+living dwelt, and nothing grew, save now and again a little dwarf
+willow.  Yet was there naught worse to meet save toil, because they
+were over strong for the wild men to meddle with them, whereas the
+kindreds thereabout were but feeble.
+
+----------------------------------------------------------------------
+
+[39] BOOK TWO | Ch.26 — They Ride the Mountains Toward Goldburg
+    Score: 0.328 | Words: 74 | Spatial hits: 2 | Action hits: 0
+
+And now was the whole Fellowship assembled, and stood in a ring round
+about Ralph and Bull, and the dead man; as for him, he had been dead
+some time, many days belike; but in that high and clear cold air, his
+carcase, whistled by the wind, had dried rather than rotted, and his
+face was clear to be seen with its great hooked nose and long black
+hair: and his skull was cloven.
+
+----------------------------------------------------------------------
+
+[40] BOOK TWO | Ch.26 — They Ride the Mountains Toward Goldburg
+    Score: 0.271 | Words: 137 | Spatial hits: 3 | Action hits: 1
+
+So then they gat them to their sleeping-berths, and Ralph, contrary to
+his wont, lay long awake, pondering these things; till at last he said
+to himself that this woman, whom he called Dorothea, was certainly
+alive, and wotted that he was seeking her.  And then it seemed to him
+that he could behold her through the darkness of night, clad in the
+green flowered gown as he had first seen her, and she bewailing her
+captivity and the long tarrying of the deliverer as she went to and fro
+in a great chamber builded of marble and done about with gold and
+bright colours: and or ever he slept, he deemed this to be a vision of
+what then was, rather than a memory of what had been; and it was sweet
+to his very soul.
+
+----------------------------------------------------------------------
+
+[41] BOOK TWO | Ch.27 — Clement Tells of Goldburg
+    Score: 0.228 | Words: 66 | Spatial hits: 5 | Action hits: 1
+
+Now when it was morning he rose early and roused Bull and the captain,
+and they searched in divers places where they had not been the night
+before, and even a good way back about the road they had ridden
+yesterday, but found no tidings.  And Ralph said to himself that this
+was naught but what he had looked for after that vision of the night.
+
+----------------------------------------------------------------------
+
+[42] BOOK TWO | Ch.28 — Now They Come to Goldburg
+    Score: 0.275 | Words: 134 | Spatial hits: 9 | Action hits: 1
+
+So they rode to their hostel in the market place, which lay a little
+back from the river in an ingle of the ridge and one of its buttresses;
+and all round the said market were houses as fair as the first they had
+seen: but above, on the hill-sides, save for the castle and palace of
+the Queen (for a woman ruled in Goldburg), were the houses but low,
+poorly built of post and pan, and thatched with straw, or reed, or
+shingle.  But the great church was all along one side of the market
+place; and albeit this folk was somewhat wild and strange of faith for
+Christian men, yet was it dainty and delicate as might be, and its
+steeples and bell-towers were high and well builded, and adorned
+exceeding richly.
+
+----------------------------------------------------------------------
+
+[43] BOOK TWO | Ch.28 — Now They Come to Goldburg
+    Score: 0.371 | Words: 89 | Spatial hits: 10 | Action hits: 0
+
+So they lighted down at their hostel, and never had Ralph seen such
+another, for the court within was very great and with a fair garden
+filled with flowers and orchard-trees, and amidst it was a fountain of
+fresh water, built in the goodliest fashion of many-coloured
+marble-stones. And the arched and pillared way about the said court was
+as fair as the cloister of a mitred abbey; and the hall for the guests
+was of like fashion, vaulted with marvellous cunning, and with a row of
+pillars amidmost.
+
+----------------------------------------------------------------------
+
+[44] BOOK TWO | Ch.28 — Now They Come to Goldburg
+    Score: 0.229 | Words: 51 | Spatial hits: 2 | Action hits: 0
+
+There they abode in good entertainment; yet this noted Ralph, that as
+goodly as was the fashion of the building of that house, yet the
+hangings and beds, and stools, and chairs, and other plenishing were no
+richer or better than might be seen in the hostelry of any good town.
+
+----------------------------------------------------------------------
+
+[45] BOOK TWO | Ch.31 — The Beginning of the Road To Utterbol
+    Score: 0.200 | Words: 58 | Spatial hits: 1 | Action hits: 0
+
+It was a fresh and bright morning of early autumn, the sheaves were on
+the acres, and the grapes were blackening to the vintage, and the
+beasts and birds at least were merry.  But little merry were the
+husbandmen whom they met, either carles or queans, and they were
+scantily and foully clad, and sullen-faced, if not hunger-pinched.
+
+----------------------------------------------------------------------
+
+[46] BOOK TWO | Ch.31 — The Beginning of the Road To Utterbol
+    Score: 0.218 | Words: 51 | Spatial hits: 4 | Action hits: 2
+
+They had now ridden out of the lands of Goldburg, which were narrow on
+that side, and the day was wearing fast.  This way the land was fair
+and rich, with no hills of any size.  They crossed a big river twice by
+bridges, and small streams often, mostly by fords.
+
+----------------------------------------------------------------------
+
+[47] BOOK TWO | Ch.32 — Ralph Happens on Evil Days
+    Score: 0.317 | Words: 31 | Spatial hits: 3 | Action hits: 1
+
+Early on the morrow they departed, and now in the morning light and the
+sun the minstrel seemed glad again, and talked abundantly, even though
+at whiles Ralph answered him little.
+
+----------------------------------------------------------------------
+
+[48] BOOK TWO | Ch.32 — Ralph Happens on Evil Days
+    Score: 0.193 | Words: 113 | Spatial hits: 5 | Action hits: 2
+
+Naught befell to tell of for some while; but at last, when it was
+drawing towards evening again, they had been riding through a thick
+pine-wood for a long while, and coming out of it they beheld before
+them a plain country fairly well grassed, but lo! on the field not far
+from the roadside a pavilion pitched and a banner on the top thereof,
+but the banner hung down about the staff, so that the bearing was not
+seen: and about this pavilion, which was great and rich of fashion,
+were many tents great and small, and there were horses tethered in the
+field, and men moving about the gleam of armour.
+
+----------------------------------------------------------------------
+
+[49] BOOK TWO | Ch.32 — Ralph Happens on Evil Days
+    Score: 0.183 | Words: 68 | Spatial hits: 5 | Action hits: 2
+
+As he spake the wind arose and ran along the wood-side, and beat back
+from it and stirred the canvas of the tents and raised the folds of the
+banner, and blew it out, so that the bearing was clear to see; yet
+Ralph deemed it naught dreadful, but an armoury fit for a baron, to
+wit, a black bear on a castle-wall on a field of gold.
+
+----------------------------------------------------------------------
+
+[50] BOOK TWO | Ch.34 — "Can'st thou play with sword and spear?" said the Lord.
+    Score: 0.244 | Words: 32 | Spatial hits: 2 | Action hits: 0
+
+Still now is the stithy this morning unclouded,
+    Nought stirs in the thorp save the yellow-haired maid
+    A-peeling the withy last Candlemas shrouded
+    From the mere where the moorhen now swims unafraid.
+
+----------------------------------------------------------------------
+
+[51] BOOK TWO | Ch.34 — "Can'st thou play with sword and spear?" said the Lord.
+    Score: 0.324 | Words: 39 | Spatial hits: 3 | Action hits: 0
+
+For over the Ford now the grass and the clover
+    Fly off from the tines as the wind driveth on;
+    And soon round the Sword-howe the swathe shall lie over,
+    And to-morrow at even the mead shall be won.
+
+----------------------------------------------------------------------
+
+[52] BOOK TWO | Ch.34 — "Can'st thou play with sword and spear?" said the Lord.
+    Score: 0.270 | Words: 40 | Spatial hits: 6 | Action hits: 1
+
+But the Hall of the Garden amidst the hot morning,
+    It drew my feet thither; I stood at the door,
+    And felt my heart harden 'gainst wisdom and warning
+    As the sun and my footsteps came on to the floor.
+
+----------------------------------------------------------------------
+
+[53] BOOK TWO | Ch.34 — "Can'st thou play with sword and spear?" said the Lord.
+    Score: 0.395 | Words: 42 | Spatial hits: 4 | Action hits: 0
+
+Round the hall of the Garden the hot sun is burning,
+    But no master nor minstrel goes there in the shade,
+    It hath never a warden till comes the returning,
+    When the moon shall hang high and all winds shall be laid.
+
+----------------------------------------------------------------------
+
+[54] BOOK TWO | Ch.34 — "Can'st thou play with sword and spear?" said the Lord.
+    Score: 0.275 | Words: 63 | Spatial hits: 3 | Action hits: 1
+
+On the ninth day of his captivity the rain ceased and it was sunny and
+warm but somewhat hazy, so that naught could be seen afar, but the land
+near-hand rose in long, low downs now, and was quite treeless, save
+where was a hollow here and there and a stream running through it,
+where grew a few willows, but alders more abundantly.
+
+----------------------------------------------------------------------
+
+[55] BOOK THREE | Ch.3 — Ralph Meeteth With Another Adventure in the Wood Under the Mountain
+    Score: 0.220 | Words: 60 | Spatial hits: 5 | Action hits: 1
+
+So he went and fetched his saddle and lay down with his head thereon;
+and was presently asleep.  But she, who had again cast wood on the
+fire, sat by his head watching him with a drawn sword beside her, till
+the dawn of the woodland began to glimmer through the trees: then she
+also laid herself down and slept.
+
+----------------------------------------------------------------------
+
+[56] BOOK THREE | Ch.5 — They Come on the Sage of Swevenham
+    Score: 0.312 | Words: 59 | Spatial hits: 5 | Action hits: 1
+
+But if they were merry, they were soon weary; for they journeyed on
+after sunset that night, since the moon was up, and there was no thick
+wood to turn dusk into dark for them.  Their resting-place was a smooth
+piece of greensward betwixt the water and a half circle of steep bent
+that well nigh locked it about.
+
+----------------------------------------------------------------------
+
+[57] BOOK THREE | Ch.6 — Those Two Are Learned Lore by the Sage of Swevenham
+    Score: 0.262 | Words: 59 | Spatial hits: 3 | Action hits: 1
+
+When it was morning they went again to the ancient altar, and again
+they learned lore from the Elder, till they were waxen wise in the
+matters of the Well at the World's End, and long they sat and hearkened
+him till it was evening again, and once more they slept in the house of
+the Sage of Swevenham.
+
+----------------------------------------------------------------------
+
+[58] BOOK THREE | Ch.7 — An Adventure by the Way
+    Score: 0.338 | Words: 33 | Spatial hits: 5 | Action hits: 1
+
+Dusk fell on them in a little valley, through which ran a stream bushed
+about its edges, and which for the rest was grassy and pleasant, with
+big sweet-chestnut trees scattered about it.
+
+----------------------------------------------------------------------
+
+[59] BOOK THREE | Ch.7 — An Adventure by the Way
+    Score: 0.308 | Words: 34 | Spatial hits: 3 | Action hits: 1
+
+There was still a flickering flame playing about the red embers of
+their fire, for they had made it very big; and the moon had arisen and
+was shining bright in a cloudless sky.
+
+----------------------------------------------------------------------
+
+[60] BOOK THREE | Ch.8 — They Come to the Sea of Molten Rocks
+    Score: 0.217 | Words: 65 | Spatial hits: 7 | Action hits: 2
+
+When they woke again the sun was high above their heads, and they saw
+the Sage dighting their breakfast.  So they arose and washed the night
+off them in the stream and ate hastily, and got to horse on a fair
+forenoon; then they rode the mountain neck east from that valley; and
+it was a long slope of stony and barren mountain nigh waterless.
+
+----------------------------------------------------------------------
+
+[61] BOOK THREE | Ch.8 — They Come to the Sea of Molten Rocks
+    Score: 0.389 | Words: 83 | Spatial hits: 6 | Action hits: 0
+
+But clear as was the fashion of the mountains, they were yet a long way
+off:  for betwixt them and the ridge whereon those fellows stood,
+stretched a vast plain, houseless and treeless, and, as they beheld it
+thence grey and ungrassed (though indeed it was not wholly so) like a
+huge river or firth of the sea it seemed, and such indeed it had been
+once, to wit a flood of molten rock in the old days when the earth was
+a-burning.
+
+----------------------------------------------------------------------
+
+[62] BOOK THREE | Ch.9 — They Come Forth From the Rock-Sea
+    Score: 0.300 | Words: 78 | Spatial hits: 4 | Action hits: 0
+
+Many wild things there were, both beast and fowl, in these islands and
+bridges of the rock-sea, hares and conies to wit, a many, and
+heathfowl, and here and there a red fox lurking about the crannies of
+the rock-wall. Ralph shot a brace of conies with his Turk bow, and
+whereas there were bushes growing in the chinks, and no lack of whin
+and ling, they had firing enough, and supped off this venison of the
+rocks.
+
+----------------------------------------------------------------------
+
+[63] BOOK THREE | Ch.9 — They Come Forth From the Rock-Sea
+    Score: 0.371 | Words: 42 | Spatial hits: 3 | Action hits: 0
+
+So Ralph lay down and Ursula also, but Ralph lay long awake watching
+the light above him, which grew fiercer and redder in the hours betwixt
+moonset and daybreak, when he fell asleep, and woke not again till the
+sun was high.
+
+----------------------------------------------------------------------
+
+[64] BOOK THREE | Ch.10 — They Come to the Gate of the Mountains
+    Score: 0.200 | Words: 35 | Spatial hits: 2 | Action hits: 0
+
+That day they herded their horses thereabout, and from time to time the
+Sage tried those two if they were perfect in the lore of the road; and
+he found that they had missed nothing.
+
+----------------------------------------------------------------------
+
+[65] BOOK THREE | Ch.11 — They Come to the Vale of Sweet Chestnuts
+    Score: 0.180 | Words: 111 | Spatial hits: 9 | Action hits: 2
+
+At last these said valleys came often and oftener, till it was so that
+all was pretty much one valley, whiles broken by a mountain neck,
+whiles straitened by a ness of the mountains that jutted into it, but
+never quite blind:  yet was the said valley very high up, and as it
+were a trench of the great mountain.  So they were glad that they had
+escaped from that strait prison betwixt the rock-walls, and were well
+at ease: and they failed never to find the tokens that led them on the
+way, even as they had learned of the Sage, so that they were not
+beguiled into any straying.
+
+----------------------------------------------------------------------
+
+[66] BOOK THREE | Ch.15 — They Come to the Land of the Innocent Folk
+    Score: 0.354 | Words: 46 | Spatial hits: 4 | Action hits: 0
+
+Thereafter as the night aged, they were shown to a sleeping chamber,
+which albeit not richly decked, or plenished with precious things, was
+most dainty clean, and sweet smelling, and strewn with flowers, so that
+the night was sweet to them in a chamber of love.
+
+----------------------------------------------------------------------
+
+[67] BOOK THREE | Ch.20 — They Come to the Ocean Sea
+    Score: 0.204 | Words: 131 | Spatial hits: 9 | Action hits: 2
+
+Little they tarried, but gat them down the steep of the mountain, and
+so lower and lower till they were come to ground nigh level; and then
+at last it was but thus, that without any great rock-wall or girdle of
+marvellous and strange land, there was an end of earth, with its grass
+and trees and streams, and a beginning of the ocean, which stretched
+away changeless, and it might be for ever.  Where the land ended there
+was but a cliff of less than an hundred feet above the eddying of the
+sea; and on the very point of the ness was a low green toft with a
+square stone set atop of it, whereon as they drew nigh they saw the
+token graven, yea on each face thereof.
+
+----------------------------------------------------------------------
+
+[68] BOOK THREE | Ch.21 — Now They Drink of the Well at the World's End
+    Score: 0.182 | Words: 94 | Spatial hits: 3 | Action hits: 2
+
+For a minute then they clung together within the spray-bow of the Well,
+and then she took his hand and led him back to the midst of the
+bench-table, and he put the cup into the ambrye, and shut it up again,
+and then they sat them down on the widest of the platform under the
+shadow of a jutting rock; for the sun was hot; and therewithal a sweet
+weariness began to steal over them, though there was speech betwixt
+them for a little, and Ralph said: "How is it with thee, beloved?"
+
+----------------------------------------------------------------------
+
+[69] BOOK FOUR | Ch.13 — They Come to Whitwall Again
+    Score: 0.242 | Words: 90 | Spatial hits: 4 | Action hits: 1
+
+But the three held on their way to Whitwall, and it was barely noon
+when they came to the gate thereof on a Saturday of latter May, It was
+a market-day, and the streets were thronged, and they looked on the
+folk and were fain of them, since they seemed to them to be something
+more than aliens.  The folk also looked on them curiously, and deemed
+them goodly, both the old man and the two knights, for they thought no
+otherwise of Ursula than that she was a carle.
+
+----------------------------------------------------------------------
+
+[70] BOOK FOUR | Ch.15 — A Strange Meeting in the Wilderness
+    Score: 0.265 | Words: 89 | Spatial hits: 3 | Action hits: 1
+
+On the morrow betimes they got to the road again; the country at first,
+though it was scanty of tillage, was not unfurnished of sheep, being
+for the most part of swelling hills and downs well grassed, with here
+and there a deep cleft in them.  They saw but few houses, and those
+small and poor.  A few shepherds they fell in with, who were short of
+speech, after the manner of such men, but deemed a greeting not wholly
+thrown away on such goodly folk as those wayfarers.
+
+----------------------------------------------------------------------
+
+[71] BOOK FOUR | Ch.16 — They Come to the Castle of Abundance Once More
+    Score: 0.189 | Words: 101 | Spatial hits: 3 | Action hits: 2
+
+They arose betimes on the morrow, and whereas the Sage knew the
+woodland ways well, they made but a short journey of it to the Castle
+of Abundance, and came into the little plain but two hours after noon,
+where saving that the scythe had not yet wended the tall mowing grass
+in the crofts which the beasts and sheep were not pasturing, all was as
+on that other tide.  The folk were at work in their gardens, or herding
+their cattle in the meads, and as aforetime they were merry of
+countenance and well-clad, fair and gentle to look on.
+
+----------------------------------------------------------------------
+
+[72] BOOK FOUR | Ch.16 — They Come to the Castle of Abundance Once More
+    Score: 0.350 | Words: 46 | Spatial hits: 4 | Action hits: 1
+
+There were their pleasant cots, and the little white church, and the
+fair walls of the castle on its low mound, and the day bright and
+sunny, all as aforetime, and Ralph looked on it all, and made no
+countenance of being moved beyond his wont.
+
+----------------------------------------------------------------------
+
+[73] BOOK FOUR | Ch.16 — Said Ralph:  "She was slain with the sword."
+    Score: 0.220 | Words: 98 | Spatial hits: 3 | Action hits: 1
+
+Hereon the Sage held one of the younger men in talk, and taught him
+what he might of the way to the Burg of the Four Friths, so that they
+might verily send a messenger to Upmeads if need were.  But the country
+youth said there was no need to think thereof, as no man of theirs
+would dare the journey through the wood, and that if they had need of a
+messenger, one of the Fathers of the Thorn would do their errand,
+whereas they were holy men, and knew the face of the world full well.
+
+----------------------------------------------------------------------
+
+[74] BOOK FOUR | Ch.17 — They Fall in With That Hermit
+    Score: 0.190 | Words: 158 | Spatial hits: 5 | Action hits: 2
+
+"Well, there were the champions and their prey, which was very great,
+and especially of women, of whom the more part were young and fair: for
+the women of the Wheat-wearers be goodly, and these had been picked out
+by the rutters of the Burg for their youth and strength and beauty.
+And whereas the men of the Dry Tree were scant of women at home, and
+sore-hearted because of our Lady, they forbore not these women, but
+fell to talking with them and loving them; howbeit in courteous and
+manly fashion, so that the women deemed themselves in heaven and were
+ready to do anything to please their lovers.  So the end of it was that
+the Champions sent messengers to Hampton and the Castle of the Scaur to
+tell what had betid, and they themselves took the road to the land of
+the Wheat-wearers, having those women with them not as captives but as
+free damsels.
+
+----------------------------------------------------------------------
+
+[75] BOOK FOUR | Ch.29 — And in like wise said they all.
+    Score: 0.292 | Words: 82 | Spatial hits: 4 | Action hits: 1
+
+Scarce was it out of his mouth ere the captains fell away to right and
+left, and there, standing by himself, was Ralph, holding the ancient
+lettered war-staff; his head was bare, for now he had done off his
+sallet, and the sun and the wind played in his bright hair; glorious
+was his face, and his grey eyes gleamed with wrath and mastery as he
+spake in a clear voice, and there was silence all along the ranks to
+hearken him:
+
+----------------------------------------------------------------------
+
+[76] BOOK FOUR | Ch.29 — And in like wise said they all.
+    Score: 0.188 | Words: 72 | Spatial hits: 2 | Action hits: 1
+
+Now at the hanging of the hill, whenas either side could see the whites
+of the foemen's eyes, the robbers stayed a little to gather breath; and
+in that nick of time Ralph strode forth into the midst between the two
+lines and up on to a little mound on the hill-side (which well he
+knew), and he lifted up the ancient guisarme, and cried on high:  "Home
+now!  Home to Upmeads!"
+
+----------------------------------------------------------------------
+
