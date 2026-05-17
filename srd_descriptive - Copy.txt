@@ -1,0 +1,1035 @@
+D&D SRD 5.2.1 DESCRIPTIVE PASSAGES
+Source: System Reference Document 5.2.1 (CC-BY-4.0)
+Passages retained: 147
+Thresholds: mechanical<0.25, dice<2, descriptive>0.15
+======================================================================
+
+[1] Playing the Game | Do. Typically, the characters stick together as [general]
+    Score: 0.249 | Words: 41 | Spatial: 2 | Mechanical hits: 0 | Dice: 0
+
+they travel through a dungeon or another envi ronment. Sometimes different adventurers do different things: one adventurer might search a treasure chest while a second examines a mys terious symbol engraved on a wall and a third keeps watch for monsters.
+
+----------------------------------------------------------------------
+
+[2] Playing the Game | If an adventurer walks across a room and tries to [general]
+    Score: 0.253 | Words: 79 | Spatial: 4 | Mechanical hits: 1 | Dice: 0
+
+open a door, the GM might say the door opens and describe what lies beyond. But the door might be locked, the floor might hide a trap, or some other circumstance might make it challenging for an adventurer to complete a task. In those cases, the GM might ask the player to roll a die to help de termine what happens. Describing the results of ten leads to another decision point, which brings the game back to step 1.
+
+----------------------------------------------------------------------
+
+[3] Playing the Game | Bright Light. Bright Light lets most creatures see [general]
+    Score: 0.539 | Words: 69 | Spatial: 8 | Mechanical hits: 0 | Dice: 0
+
+Even gloomy days provide Bright Light, as do torches, lanterns, fires, and other sources of illu mination within a specific radius. Dim Light, also called shadows, cre ates a Lightly Obscured area. An area of Dim Light is usually a boundary between Bright Light and surrounding Darkness. The soft light of twilight and dawn also counts as Dim Light. A full moon might bathe the land in Dim Light.
+
+----------------------------------------------------------------------
+
+[4] Playing the Game | What Is an Object? [magic_item]
+    Score: 0.200 | Words: 36 | Spatial: 2 | Mechanical hits: 0 | Dice: 0
+
+For the purpose of the rules, an object is a discrete, inanimate item like a window, door, sword, book, table, chair, or stone. It isn’t a building or a vehicle, which are composed of many objects.
+
+----------------------------------------------------------------------
+
+[5] Playing the Game | Standard Languages [general]
+    Score: 0.171 | Words: 25 | Spatial: 0 | Mechanical hits: 1 | Dice: 1
+
+1d12 Language — Common 1 Common Sign Language 2 Draconic 3–4 Dwarvish 5–6 Elvish 7 Giant 8 Gnomish 9 Goblin 10 –11 Halfling 12 Orc
+
+----------------------------------------------------------------------
+
+[6] Playing the Game | In tier 2, characters are full-fledged adventurers. [general]
+    Score: 0.154 | Words: 36 | Spatial: 1 | Mechanical hits: 0 | Dice: 0
+
+Spellcasters gain iconic spells such as Fireball, Light ning Bolt, and Raise Dead. Most weapon-focused classes gain the ability to make multiple attacks in a round. The characters now face dangers that threaten cities and kingdoms.
+
+----------------------------------------------------------------------
+
+[7] Playing the Game | When you make your character, you can roll once [general]
+    Score: 0.226 | Words: 37 | Spatial: 2 | Mechanical hits: 0 | Dice: 0
+
+on the Trinkets table to gain a Tiny trinket, a simple item lightly touched by mystery. The GM might also use this table. It can help stock a room in a dungeon or fill a creature’s pockets.
+
+----------------------------------------------------------------------
+
+[8] Spells | The Life Domain focuses on the positive energy that [spell]
+    Score: 0.278 | Words: 78 | Spatial: 4 | Mechanical hits: 1 | Dice: 0
+
+helps sustain all life in the multiverse. Clerics who tap into this domain are masters of healing, using that life force to cure many hurts. Existence itself relies on the positive energy as sociated with this domain, so a Cleric of almost any religious tradition might choose it. This domain is particularly associated with agricultural deities, gods of healing or endurance, and gods of home and community. Religious orders of healing also seek the magic of this domain.
+
+----------------------------------------------------------------------
+
+[9] Spells | The Circle of the Land comprises mystics and sages [spell]
+    Score: 0.181 | Words: 36 | Spatial: 1 | Mechanical hits: 0 | Dice: 0
+
+who safeguard ancient knowledge and rites. These Druids meet within sacred circles of trees or stand ing stones to whisper primal secrets in Druidic. The circle’s wisest members preside as the chief priests of their communities.
+
+----------------------------------------------------------------------
+
+[10] Spells | Level 2: Tactical Mind [spell]
+    Score: 0.240 | Words: 67 | Spatial: 3 | Mechanical hits: 1 | Dice: 1
+
+You have a mind for tactics on and off the battle field. When you fail an ability check, you can expend a use of your Second Wind to push yourself toward success. Rather than regaining Hit Points, you roll 1d10 and add the number rolled to the ability check, potentially turning it into a success. If the check still fails, this use of Second Wind isn’t expended.
+
+----------------------------------------------------------------------
+
+[11] Spells | Weapon Proficiencies Simple and Martial weapons [spell]
+    Score: 0.178 | Words: 34 | Spatial: 1 | Mechanical hits: 0 | Dice: 0
+
+Armor Training Light, Medium, and Heavy ar mor and Shields Starting Equipment Choose A or B: (A) Chain Mail, Shield, Longsword, 6 Javelins, Holy Symbol, Priest’s Pack, and 9 GP; or (B) 150 GP
+
+----------------------------------------------------------------------
+
+[12] Spells | Improvement [spell]
+    Score: 0.167 | Words: 61 | Spatial: 0 | Mechanical hits: 0 | Dice: 0
+
+8 5 12 4 3 3 2 — — — — — 9 +4 — 9 5 14 4 3 3 3 1 — — — — 10 +4 Metamagic 10 6 15 4 3 3 3 2 — — — — 11 +4 — 11 6 16 4 3 3 3 2 1 — — — 12 +4 Ability Score
+
+----------------------------------------------------------------------
+
+[13] Spells | Improvement [spell]
+    Score: 0.154 | Words: 75 | Spatial: 0 | Mechanical hits: 1 | Dice: 0
+
+16 6 18 4 3 3 3 2 1 1 1 — 17 +6 Metamagic 17 6 19 4 3 3 3 2 1 1 1 1 18 +6 Subclass feature 18 6 20 4 3 3 3 3 1 1 1 1 19 +6 Epic Boon 19 6 21 4 3 3 3 3 2 1 1 1 20 +6 Arcane Apotheosis 20 6 22 4 3 3 3 3 2 2 1 1
+
+----------------------------------------------------------------------
+
+[14] Spells | Your studies focus on magic that creates powerful [spell]
+    Score: 0.198 | Words: 43 | Spatial: 2 | Mechanical hits: 1 | Dice: 0
+
+elemental effects such as bitter cold, searing flame, rolling thunder, crackling lightning, and burning acid. Some Evokers find employment in military forces, serving as artillery to blast armies from afar. Others use their power to protect others, while some seek their own gain.
+
+----------------------------------------------------------------------
+
+[15] Equipment | Ability Score Increase. Increase one ability score [general]
+    Score: 0.165 | Words: 64 | Spatial: 3 | Mechanical hits: 9 | Dice: 0
+
+of your choice by 1, to a maximum of 30. While within Dim Light or Darkness, you can give yourself the Invisible condi tion as a Bonus Action. The condition ends on you immediately after you take an action, a Bonus Ac tion, or a Reaction. While within Dim Light or Dark ness, you have Resistance to all damage except Psy chic and Radiant.
+
+----------------------------------------------------------------------
+
+[16] Equipment | A Hooded Lantern burns Oil as fuel to cast Bright [general]
+    Score: 0.361 | Words: 37 | Spatial: 4 | Mechanical hits: 2 | Dice: 0
+
+Light in a 30-foot radius and Dim Light for an ad ditional 30 feet. As a Bonus Action, you can lower the hood, reducing the light to Dim Light in a 5-foot radius, or raise it again.
+
+----------------------------------------------------------------------
+
+[17] Equipment | A Magnifying Glass grants Advantage on any ability [general]
+    Score: 0.354 | Words: 38 | Spatial: 3 | Mechanical hits: 0 | Dice: 0
+
+check made to appraise or inspect a highly detailed item. Lighting a fire with a Magnifying Glass re quires light as bright as sunlight to focus, tinder to ignite, and about 5 minutes for the fire to ignite.
+
+----------------------------------------------------------------------
+
+[18] Equipment | Cantrip Village, town, or city 30 GP [general]
+    Score: 0.300 | Words: 38 | Spatial: 12 | Mechanical hits: 0 | Dice: 0
+
+1 Village, town, or city 50 GP 2 Village, town, or city 200 GP 3 Town or city only 300 GP 4–5 Town or city only 2,000 GP 6–8 City only 20,000 GP 9 City only 100,000 GP
+
+----------------------------------------------------------------------
+
+[19] Spells | Duration: Until dispelled [spell]
+    Score: 0.159 | Words: 26 | Spatial: 2 | Mechanical hits: 1 | Dice: 0
+
+You touch a closed door, window, gate, container, or hatch and magically lock it for the duration. This lock can’t be unlocked by any nonmagical means.
+
+----------------------------------------------------------------------
+
+[20] Spells | You and up to eight willing creatures within range [spell]
+    Score: 0.211 | Words: 45 | Spatial: 5 | Mechanical hits: 2 | Dice: 0
+
+project your astral bodies into the Astral Plane (the spell ends instantly if you are already on that plane). Each target’s body is left behind in a state of suspended animation; it has the Unconscious condi tion, doesn’t need food or air, and doesn’t age.
+
+----------------------------------------------------------------------
+
+[21] Spells | A target’s astral form resembles its body in almost [spell]
+    Score: 0.334 | Words: 71 | Spatial: 4 | Mechanical hits: 0 | Dice: 0
+
+every way, replicating its game statistics and pos sessions. The principal difference is the addition of a silvery cord that trails from between the shoulder blades of the astral form. The cord fades from view after 1 foot. If the cord is cut—which happens only when an effect states that it does so—the target’s body and astral form both die. A target’s astral form can travel through the As tral Plane.
+
+----------------------------------------------------------------------
+
+[22] Spells | A target’s astral form resembles its body in almost [spell]
+    Score: 0.216 | Words: 80 | Spatial: 6 | Mechanical hits: 2 | Dice: 0
+
+A target’s astral form can travel through the As tral Plane. The moment an astral form leaves that plane, the target’s body and possessions travel along the silver cord, causing the target to re-enter its body on the new plane. Any damage or other effects that apply to an as tral form have no effect on the target’s body and vice versa. If a target’s body or astral form drops to 0 Hit Points, the spell ends for that target.
+
+----------------------------------------------------------------------
+
+[23] Spells | You create a wall of whirling blades made of magical [spell]
+    Score: 0.280 | Words: 55 | Spatial: 4 | Mechanical hits: 1 | Dice: 0
+
+The wall appears within range and lasts for the duration. You make a straight wall up to 100 feet long, 20 feet high, and 5 feet thick, or a ringed wall up to 60 feet in diameter, 20 feet high, and 5 feet thick. The wall provides Three-Quarters Cover, and its space is Difficult Terrain.
+
+----------------------------------------------------------------------
+
+[24] Spells | System Reference Document 5.2.1 [spell]
+    Score: 0.381 | Words: 62 | Spatial: 6 | Mechanical hits: 0 | Dice: 0
+
+114 perceive the plane you left, which is cast in shades of gray, but you can’t see anything there more than 60 feet away. You can affect and be affected only by other creatures on the Ethereal Plane, and creatures on the other plane can’t perceive you unless they have a special ability that lets them perceive things on the Ethereal Plane.
+
+----------------------------------------------------------------------
+
+[25] Spells | You create an Invisible sensor within range in a [spell]
+    Score: 0.172 | Words: 47 | Spatial: 2 | Mechanical hits: 1 | Dice: 0
+
+location familiar to you (a place you have visited or seen before) or in an obvious location that is unfamiliar to you (such as behind a door, around a corner, or in a grove of trees). The intangible, invul nerable sensor remains in place for the duration.
+
+----------------------------------------------------------------------
+
+[26] Spells | You create a 20-foot-radius Sphere of yellow-green [spell]
+    Score: 0.180 | Words: 37 | Spatial: 4 | Mechanical hits: 2 | Dice: 0
+
+fog centered on a point within range. The fog lasts for the duration or until strong wind (such as the one created by Gust of Wind ) disperses it, ending the spell. Its area is Heavily Obscured.
+
+----------------------------------------------------------------------
+
+[27] Spells | You conjure a spirit from the Upper Planes, which [spell]
+    Score: 0.228 | Words: 34 | Spatial: 2 | Mechanical hits: 0 | Dice: 0
+
+manifests as a pillar of light in a 10-foot-radius, 40-foot-high Cylinder centered on a point within range. For each creature you can see in the Cylinder, choose which of these lights shines on it:
+
+----------------------------------------------------------------------
+
+[28] Spells | Duration: Concentration, up to 10 minutes [spell]
+    Score: 0.260 | Words: 43 | Spatial: 5 | Mechanical hits: 2 | Dice: 0
+
+You conjure a Large, intangible spirit from the Ele mental Planes that appears in an unoccupied space within range. Choose the spirit’s element, which determines its damage type: air (Lightning), earth (Thunder), fire (Fire), or water (Cold). The spirit lasts for the duration.
+
+----------------------------------------------------------------------
+
+[29] Spells | Duration: 10 days [spell]
+    Score: 0.248 | Words: 63 | Spatial: 3 | Mechanical hits: 1 | Dice: 0
+
+You describe that trigger when you cast the two spells. For example, a Contingency cast with Water Breathing might stip ulate that Water Breathing comes into effect when you are engulfed in water or a similar liquid. The contingent spell takes effect immediately af ter the trigger occurs for the first time, whether or not you want it to, and then Contingency ends.
+
+----------------------------------------------------------------------
+
+[30] Spells | A flame springs from an object that you touch. The [spell]
+    Score: 0.416 | Words: 44 | Spatial: 4 | Mechanical hits: 0 | Dice: 0
+
+effect casts Bright Light in a 20-foot radius and Dim Light for an additional 20 feet. It looks like a regular flame, but it creates no heat and consumes no fuel. The flame can be covered or hidden but not smoth ered or quenched.
+
+----------------------------------------------------------------------
+
+[31] Spells | System Reference Document 5.2.1 [spell]
+    Score: 0.155 | Words: 65 | Spatial: 1 | Mechanical hits: 0 | Dice: 0
+
+120 choose an area in a large body of water, you instead create a 20-foot tall wave that travels from one side of the area to the other and then crashes. Any Huge or smaller vehicles in the wave’s path are carried with it to the other side. Any Huge or smaller vehi cles struck by the wave have a 25 percent chance of capsizing.
+
+----------------------------------------------------------------------
+
+[32] Spells | The water level remains elevated until the spell [spell]
+    Score: 0.194 | Words: 69 | Spatial: 3 | Mechanical hits: 2 | Dice: 0
+
+ends or you choose a different effect. If this effect produced a wave, the wave repeats on the start of your next turn while the flood effect lasts. You part water in the area and cre ate a trench. The trench extends across the spell’s area, and the separated water forms a wall to either side. The trench remains until the spell ends or you choose a different effect.
+
+----------------------------------------------------------------------
+
+[33] Spells | You create 45 pounds of food and 30 gallons of [spell]
+    Score: 0.343 | Words: 47 | Spatial: 3 | Mechanical hits: 0 | Dice: 0
+
+fresh water on the ground or in containers within range—both useful in fending off the hazards of malnutrition and dehydration. The food is bland but nourishing and looks like a food of your choice, and the water is clean. The food spoils after 24 hours if uneaten.
+
+----------------------------------------------------------------------
+
+[34] Spells | System Reference Document 5.2.1 [spell]
+    Score: 0.197 | Words: 54 | Spatial: 2 | Mechanical hits: 1 | Dice: 0
+
+122 You create up to four torch-size lights within range, making them appear as torches, lanterns, or glow ing orbs that hover for the duration. Alternatively, you combine the four lights into one glowing Me dium form that is vaguely humanlike. Whichever form you choose, each light sheds Dim Light in a 10foot radius.
+
+----------------------------------------------------------------------
+
+[35] Spells | As a Bonus Action, you can move the lights up [spell]
+    Score: 0.277 | Words: 32 | Spatial: 3 | Mechanical hits: 2 | Dice: 0
+
+to 60 feet to a space within range. A light must be within 20 feet of another light created by this spell, and a light vanishes if it exceeds the spell’s range.
+
+----------------------------------------------------------------------
+
+[36] Spells | You create a shadowy Medium door on a flat solid [spell]
+    Score: 0.300 | Words: 37 | Spatial: 7 | Mechanical hits: 0 | Dice: 0
+
+surface that you can see within range. This door can be opened and closed, and it leads to a demiplane that is an empty room 30 feet in each dimension, made of wood or stone (your choice).
+
+----------------------------------------------------------------------
+
+[37] Spells | When the spell ends, the door vanishes, and any [spell]
+    Score: 0.240 | Words: 38 | Spatial: 3 | Mechanical hits: 1 | Dice: 0
+
+objects inside the demiplane remain there. Any creatures inside also remain unless they opt to be shunted through the door as it vanishes, landing with the Prone condition in the unoccupied spaces closest to the door’s former space.
+
+----------------------------------------------------------------------
+
+[38] Spells | You don’t read the thoughts, but you know that a [spell]
+    Score: 0.182 | Words: 26 | Spatial: 2 | Mechanical hits: 1 | Dice: 0
+
+thinking creature is present. The spell is blocked by 1 foot of stone, dirt, or wood; 1 inch of metal; or a thin sheet of lead.
+
+----------------------------------------------------------------------
+
+[39] Spells | Points, a Celestial, an Elemental, a Fey, or a Fiend [spell]
+    Score: 0.154 | Words: 36 | Spatial: 2 | Mechanical hits: 1 | Dice: 0
+
+target that fails its save is forced back to its plane of origin (if it isn’t there already) and can’t return to the current plane for 24 hours by any means short of a Wish spell.
+
+----------------------------------------------------------------------
+
+[40] Spells | Whispering to the spirits of nature, you create one [spell]
+    Score: 0.255 | Words: 57 | Spatial: 2 | Mechanical hits: 0 | Dice: 0
+
+of the following effects within range. You create a Tiny, harmless sen sory effect that predicts what the weather will be at your location for the next 24 hours. The effect might manifest as a golden orb for clear skies, a cloud for rain, falling snowflakes for snow, and so on. This effect persists for 1 round.
+
+----------------------------------------------------------------------
+
+[41] Spells | Bloom. You instantly make a flower blossom, a [spell]
+    Score: 0.180 | Words: 56 | Spatial: 1 | Mechanical hits: 0 | Dice: 0
+
+seed pod open, or a leaf bud bloom. You create a harmless sensory ef fect, such as falling leaves, spectral dancing fairies, a gentle breeze, the sound of an animal, or the faint odor of skunk. The effect must fit in a 5-foot Cube. You light or snuff out a candle, a torch, or a campfire.
+
+----------------------------------------------------------------------
+
+[42] Spells | Cube. Alternatively, you create 1 cup of clean water [spell]
+    Score: 0.323 | Words: 46 | Spatial: 6 | Mechanical hits: 0 | Dice: 0
+
+either in an open container or on a surface, and the water evaporates in 1 minute. You cause dirt, sand, fire, smoke, mist, or water that can fit in a 1-foot Cube to assume a crude shape (such as that of a creature) for 1 hour.
+
+----------------------------------------------------------------------
+
+[43] Spells | During this time, you can move in any direction. If [spell]
+    Score: 0.306 | Words: 60 | Spatial: 5 | Mechanical hits: 1 | Dice: 0
+
+you move up or down, every foot of movement costs an extra foot. You can perceive the plane you left, which looks gray, and you can’t see anything there more than 60 feet away. While on the Ethereal Plane, you can affect and be affected only by creatures, objects, and effects on that plane. Creatures that aren’t on the Ethereal
+
+----------------------------------------------------------------------
+
+[44] Spells | You convert raw materials into products of the same [spell]
+    Score: 0.219 | Words: 26 | Spatial: 2 | Mechanical hits: 0 | Dice: 0
+
+For example, you can fabricate a wooden bridge from a clump of trees, a rope from a patch of hemp, or clothes from flax or wool.
+
+----------------------------------------------------------------------
+
+[45] Spells | Duration: 1 day [spell]
+    Score: 0.167 | Words: 75 | Spatial: 6 | Mechanical hits: 3 | Dice: 0
+
+You create a ward against magical travel that pro tects up to 40,000 square feet of floor space to a height of 30 feet above the floor. For the duration, creatures can’t teleport into the area or use portals, such as those created by the Gate spell, to enter the area. The spell proofs the area against planar travel, and therefore prevents creatures from accessing the area by way of the Astral Plane, the Ethereal
+
+----------------------------------------------------------------------
+
+[46] Spells | Duration: Concentration, up to 1 hour [spell]
+    Score: 0.282 | Words: 61 | Spatial: 3 | Mechanical hits: 1 | Dice: 0
+
+An immobile, Invisible, Cube-shaped prison com posed of magical force springs into existence around an area you choose within range. The prison can be a cage or a solid box, as you choose. A prison in the shape of a cage can be up to 20 feet on a side and is made from 1/2-inch diameter bars spaced 1/2 inch apart.
+
+----------------------------------------------------------------------
+
+[47] Spells | Duration: Concentration, up to 1 hour [spell]
+    Score: 0.311 | Words: 27 | Spatial: 3 | Mechanical hits: 1 | Dice: 0
+
+On a failed save, the creature doesn’t exit the cage and wastes the spell or effect. The cage also extends into the Ethereal Plane, blocking ethereal travel.
+
+----------------------------------------------------------------------
+
+[48] Spells | You conjure a portal linking an unoccupied space [spell]
+    Score: 0.298 | Words: 70 | Spatial: 7 | Mechanical hits: 1 | Dice: 0
+
+you can see within range to a precise location on a different plane of existence. The portal is a circular opening, which you can make 5 to 20 feet in diam eter. You can orient the portal in any direction you choose. The portal lasts for the duration, and the portal’s destination is visible through it. The portal has a front and a back on each plane where it appears.
+
+----------------------------------------------------------------------
+
+[49] Spells | You conjure a portal linking an unoccupied space [spell]
+    Score: 0.185 | Words: 44 | Spatial: 2 | Mechanical hits: 1 | Dice: 0
+
+Anything that does so is instantly transported to the other plane, appearing in the unoccupied space nearest to the portal. Deities and other planar rulers can prevent por tals created by this spell from opening in their pres ence or anywhere within their domains.
+
+----------------------------------------------------------------------
+
+[50] Spells | When you cast this spell, you can speak the name [spell]
+    Score: 0.331 | Words: 48 | Spatial: 3 | Mechanical hits: 0 | Dice: 0
+
+of a specific creature (a pseudonym, title, or nick name doesn’t work). If that creature is on a plane other than the one you are on, the portal opens next to the named creature and transports it to the nearest unoccupied space on your side of the portal.
+
+----------------------------------------------------------------------
+
+[51] Spells | You inscribe a glyph that later unleashes a magical [spell]
+    Score: 0.194 | Words: 76 | Spatial: 3 | Mechanical hits: 2 | Dice: 0
+
+You inscribe it either on a surface (such as a table or a section of floor) or within an object that can be closed (such as a book or chest) to conceal the glyph. The glyph can cover an area no larger than 10 feet in diameter. If the surface or object is moved more than 10 feet from where you cast this spell, the glyph is broken, and the spell ends with out being triggered.
+
+----------------------------------------------------------------------
+
+[52] Spells | Doors.  All doors in the warded area are magically [spell]
+    Score: 0.173 | Words: 30 | Spatial: 2 | Mechanical hits: 1 | Dice: 0
+
+locked, as if sealed by the Arcane Lock spell. In addition, you can cover up to ten doors with an illusion to make them appear as plain sections of wall.
+
+----------------------------------------------------------------------
+
+[53] Spells | Wards lasts) [spell]
+    Score: 0.240 | Words: 33 | Spatial: 4 | Mechanical hits: 1 | Dice: 0
+
+• Gust of Wind in one corridor or room (the wind blows continuously while the spell lasts) • Suggestion in one 5-foot square; any creature that enters that square receives the suggestion mentally
+
+----------------------------------------------------------------------
+
+[54] Spells | You make natural terrain in a 150-foot Cube in [spell]
+    Score: 0.362 | Words: 70 | Spatial: 5 | Mechanical hits: 0 | Dice: 0
+
+range look, sound, and smell like another sort of natural terrain. Thus, open fields or a road can be made to resemble a swamp, hill, crevasse, or some other difficult or impassable terrain. A pond can be made to seem like a grassy meadow, a precipice like a gentle slope, or a rock-strewn gully like a wide and smooth road. Manufactured structures, equipment, and creatures within the area aren’t changed.
+
+----------------------------------------------------------------------
+
+[55] Spells | Chaining.  Chains firmly rooted in the ground hold [spell]
+    Score: 0.260 | Words: 48 | Spatial: 3 | Mechanical hits: 1 | Dice: 0
+
+the target in place. The target has the Restrained condition and can’t be moved by any means. The target is trapped in a demi plane that is warded against teleportation and planar travel. The demiplane is your choice of a labyrinth, a cage, a tower, or the like.
+
+----------------------------------------------------------------------
+
+[56] Spells | Minimus Containment.  The target becomes 1 inch [spell]
+    Score: 0.238 | Words: 40 | Spatial: 2 | Mechanical hits: 0 | Dice: 0
+
+tall and is trapped inside an indestructible gem stone or a similar object. Light can pass through the gemstone (allowing the target to see out and other creatures to see in), but nothing else can pass through by any means.
+
+----------------------------------------------------------------------
+
+[57] Spells | The target can move only by pushing or pulling [spell]
+    Score: 0.186 | Words: 77 | Spatial: 3 | Mechanical hits: 2 | Dice: 0
+
+against a fixed object or surface within reach (such as a wall or a ceiling), which allows it to move as if it were climbing. You can change the target’s altitude by up to 20 feet in either direction on your turn. If you are the target, you can move up or down as part of your move. Otherwise, you can take a Magic ac tion to move the target, which must remain within the spell’s range.
+
+----------------------------------------------------------------------
+
+[58] Spells | You touch one Large or smaller object that isn’t [spell]
+    Score: 0.397 | Words: 36 | Spatial: 3 | Mechanical hits: 1 | Dice: 0
+
+being worn or carried by someone else. Until the spell ends, the object sheds Bright Light in a 20-foot radius and Dim Light for an additional 20 feet. The light can be colored as you like.
+
+----------------------------------------------------------------------
+
+[59] Spells | You create a 10-foot-radius, 20-foot-tall Cylinder of [spell]
+    Score: 0.202 | Words: 45 | Spatial: 3 | Mechanical hits: 2 | Dice: 0
+
+magical energy centered on a point on the ground that you can see within range. Glowing runes ap pear wherever the Cylinder intersects with the floor or other surface. Choose one or more of the following types of creatures: Celestials, Elementals, Fey, Fiends, or Undead.
+
+----------------------------------------------------------------------
+
+[60] Spells | You and any creature you designate when you cast [spell]
+    Score: 0.163 | Words: 37 | Spatial: 2 | Mechanical hits: 2 | Dice: 0
+
+the spell can enter the extradimensional dwelling as long as the door remains open. You can open or close it (no action required) if you are within 30 feet of it. While closed, the door is imperceptible.
+
+----------------------------------------------------------------------
+
+[61] Spells | You step into a stone object or surface large enough [spell]
+    Score: 0.196 | Words: 36 | Spatial: 2 | Mechanical hits: 1 | Dice: 0
+
+to fully contain your body, merging yourself and your equipment with the stone for the duration. You must touch the stone to do so. Nothing of your presence remains visible or otherwise detectable by nonmagical senses.
+
+----------------------------------------------------------------------
+
+[62] Spells | You can cast this spell through solid objects if you [spell]
+    Score: 0.192 | Words: 30 | Spatial: 2 | Mechanical hits: 1 | Dice: 0
+
+are familiar with the target and know it is beyond the barrier. Magical silence; 1 foot of stone, metal, or wood; or a thin sheet of lead blocks the spell.
+
+----------------------------------------------------------------------
+
+[63] Spells | Image. If you create an image of an object—such [spell]
+    Score: 0.183 | Words: 46 | Spatial: 1 | Mechanical hits: 0 | Dice: 0
+
+as a chair, muddy footprints, or a small chest—it must be no larger than a 5-foot Cube. The image can’t create sound, light, smell, or any other sensory effect. Physical interaction with the image reveals it to be an illusion, since things can pass through it.
+
+----------------------------------------------------------------------
+
+[64] Spells | Duration: 10 days [spell]
+    Score: 0.363 | Words: 71 | Spatial: 5 | Mechanical hits: 0 | Dice: 0
+
+You make terrain in an area up to 1 mile square look, sound, smell, and even feel like some other sort of terrain. Open fields or a road could be made to resemble a swamp, hill, crevasse, or some other rough or impassable terrain. A pond can be made to seem like a grassy meadow, a precipice like a gentle slope, or a rock-strewn gully like a wide and smooth road.
+
+----------------------------------------------------------------------
+
+[65] Spells | Duration: Concentration, up to 2 hours [spell]
+    Score: 0.254 | Words: 69 | Spatial: 3 | Mechanical hits: 1 | Dice: 0
+
+Choose an area of terrain no larger than 40 feet on a side within range. You can reshape dirt, sand, or clay in the area in any manner you choose for the duration. You can raise or lower the area’s elevation, create or fill in a trench, erect or flatten a wall, or form a pillar. The extent of any such changes can’t exceed half the area’s largest dimension.
+
+----------------------------------------------------------------------
+
+[66] Spells | Duration: 1 hour [spell]
+    Score: 0.285 | Words: 58 | Spatial: 7 | Mechanical hits: 1 | Dice: 0
+
+A passage appears at a point that you can see on a wooden, plaster, or stone surface (such as a wall, ceiling, or floor) within range and lasts for the duration. You choose the opening’s dimensions: up to 5 feet wide, 8 feet tall, and 20 feet deep. The passage creates no instability in a structure surrounding it.
+
+----------------------------------------------------------------------
+
+[67] Spells | While affected by the spell, the target treats the [spell]
+    Score: 0.223 | Words: 43 | Spatial: 2 | Mechanical hits: 0 | Dice: 0
+
+phantasm as if it were real and rationalizes any il logical outcomes from interacting with it. For exam ple, if the target steps through a phantasmal bridge and survives the fall, it believes the bridge exists and something else caused it to fall.
+
+----------------------------------------------------------------------
+
+[68] Spells | Duration: Instantaneous [spell]
+    Score: 0.207 | Words: 67 | Spatial: 2 | Mechanical hits: 0 | Dice: 0
+
+When the creature appears, it is under no com pulsion to behave a particular way. You can ask it to perform a service in exchange for payment, but it isn’t obliged to do so. The requested task could range from simple (fly us across the chasm, or help us fight a battle) to complex (spy on our enemies, or protect us during our foray into the dungeon).
+
+----------------------------------------------------------------------
+
+[69] Spells | After the creature completes the task, or when the [spell]
+    Score: 0.151 | Words: 42 | Spatial: 2 | Mechanical hits: 1 | Dice: 0
+
+agreed-upon duration of service expires, the crea ture returns to its home plane after reporting back to you if possible. If you are unable to agree on a price for the creature’s service, the creature imme diately returns to its home plane.
+
+----------------------------------------------------------------------
+
+[70] Spells | You and up to eight willing creatures who link [spell]
+    Score: 0.276 | Words: 56 | Spatial: 4 | Mechanical hits: 1 | Dice: 0
+
+hands in a circle are transported to a different plane of existence. You can specify a target destination in general terms, such as a specific city on the Elemen tal Plane of Fire or palace on the second level of the Nine Hells, and you appear in or near that destination, as determined by the GM.
+
+----------------------------------------------------------------------
+
+[71] Spells | A shimmering, multicolored plane of light forms [spell]
+    Score: 0.220 | Words: 65 | Spatial: 4 | Mechanical hits: 2 | Dice: 0
+
+a vertical opaque wall—up to 90 feet long, 30 feet high, and 1 inch thick—centered on a point within range. Alternatively, you shape the wall into a globe up to 30 feet in diameter centered on a point within range. The wall lasts for the duration. If you posi tion the wall in a space occupied by a creature, the spell ends instantly without effect.
+
+----------------------------------------------------------------------
+
+[72] Spells | The wall, which has AC 10, can be destroyed one [spell]
+    Score: 0.196 | Words: 45 | Spatial: 2 | Mechanical hits: 1 | Dice: 0
+
+layer at a time, in order from red to violet, by means specific to each layer. If a layer is destroyed, it is gone for the duration. Antimagic Field has no effect on the wall, and Dispel Magic can affect only the vio let layer.
+
+----------------------------------------------------------------------
+
+[73] Spells | Duration: 1 hour [spell]
+    Score: 0.203 | Words: 63 | Spatial: 3 | Mechanical hits: 2 | Dice: 0
+
+You touch a rope. One end of it hovers upward until the rope hangs perpendicular to the ground or the rope reaches a ceiling. At the rope’s upper end, an Invisible 3-foot-by-5-foot portal opens to an extradimensional space that lasts until the spell ends. That space can be reached by climbing the rope, which can be pulled into or dropped out of it.
+
+----------------------------------------------------------------------
+
+[74] Spells | Duration: Concentration, up to 1 minute [spell]
+    Score: 0.240 | Words: 46 | Spatial: 3 | Mechanical hits: 1 | Dice: 0
+
+You create a 20-foot-radius Sphere of yellow, nauseating gas centered on a point within range. The cloud is Heavily Obscured. The cloud lingers in the air for the duration or until a strong wind (such as the one created by Gust of Wind ) disperses it.
+
+----------------------------------------------------------------------
+
+[75] Spells | You touch a stone object of Medium size or smaller [spell]
+    Score: 0.346 | Words: 67 | Spatial: 7 | Mechanical hits: 0 | Dice: 0
+
+or a section of stone no more than 5 feet in any di mension and form it into any shape you like. For ex ample, you could shape a large rock into a weapon, statue, or coffer, or you could make a small passage through a wall that is 5 feet thick. You could also shape a stone door or its frame to seal the door shut.
+
+----------------------------------------------------------------------
+
+[76] Spells | As you cast the spell, you draw a 5-foot-radius circle [spell]
+    Score: 0.337 | Words: 54 | Spatial: 3 | Mechanical hits: 0 | Dice: 0
+
+on the ground inscribed with sigils that link your location to a permanent teleportation circle of your choice whose sigil sequence you know and that is on the same plane of existence as you. A shimmer ing portal opens within the circle you drew and remains open until the end of your next turn.
+
+----------------------------------------------------------------------
+
+[77] Spells | Duration: Concentration, up to 6 rounds [spell]
+    Score: 0.269 | Words: 37 | Spatial: 4 | Mechanical hits: 1 | Dice: 0
+
+A wall of water springs into existence at a point you choose within range. You can make the wall up to 300 feet long, 300 feet high, and 50 feet thick. The wall lasts for the duration.
+
+----------------------------------------------------------------------
+
+[78] Spells | Duration: Concentration, up to 1 minute [spell]
+    Score: 0.322 | Words: 55 | Spatial: 6 | Mechanical hits: 1 | Dice: 0
+
+You create a wall of fire on a solid surface within range. You can make the wall up to 60 feet long, 20 feet high, and 1 foot thick, or a ringed wall up to 20 feet in diameter, 20 feet high, and 1 foot thick. The wall is opaque and lasts for the duration.
+
+----------------------------------------------------------------------
+
+[79] Spells | An Invisible wall of force springs into existence at [spell]
+    Score: 0.353 | Words: 75 | Spatial: 3 | Mechanical hits: 0 | Dice: 0
+
+a point you choose within range. The wall appears in any orientation you choose, as a horizontal or vertical barrier or at an angle. It can be free floating or resting on a solid surface. You can form it into a hemispherical dome or a globe with a radius of up to 10 feet, or you can shape a flat surface made up of ten 10-foot-by-10-foot panels. Each panel must be contiguous with another panel.
+
+----------------------------------------------------------------------
+
+[80] Spells | An Invisible wall of force springs into existence at [spell]
+    Score: 0.271 | Words: 48 | Spatial: 3 | Mechanical hits: 1 | Dice: 0
+
+Each panel must be contiguous with another panel. In any form, the wall is 1/4 inch thick and lasts for the duration. If the wall cuts through a creature’s space when it ap pears, the creature is pushed to one side of the wall (you choose which side).
+
+----------------------------------------------------------------------
+
+[81] Spells | Duration: Concentration, up to 10 minutes [spell]
+    Score: 0.302 | Words: 66 | Spatial: 5 | Mechanical hits: 1 | Dice: 0
+
+You create a wall of ice on a solid surface within range. You can form it into a hemispherical dome or a globe with a radius of up to 10 feet, or you can shape a flat surface made up of ten 10-foot-square panels. Each panel must be contiguous with another panel. In any form, the wall is 1 foot thick and lasts for the duration.
+
+----------------------------------------------------------------------
+
+[82] Spells | Duration: Concentration, up to 10 minutes [spell]
+    Score: 0.380 | Words: 50 | Spatial: 3 | Mechanical hits: 0 | Dice: 0
+
+A nonmagical wall of solid stone springs into exis tence at a point you choose within range. The wall is 6 inches thick and is composed of ten 10-foot-by10-foot panels. Each panel must be contiguous with another panel. Alternatively, you can create 10-footby-20-foot panels that are only 3 inches thick.
+
+----------------------------------------------------------------------
+
+[83] Spells | The wall can have any shape you desire, though it [spell]
+    Score: 0.247 | Words: 72 | Spatial: 4 | Mechanical hits: 1 | Dice: 0
+
+can’t occupy the same space as a creature or object. The wall doesn’t need to be vertical or rest on a firm foundation. It must, however, merge with and be solidly supported by existing stone. Thus, you can use this spell to bridge a chasm or create a ramp. If you create a span greater than 20 feet in length, you must halve the size of each panel to create sup ports.
+
+----------------------------------------------------------------------
+
+[84] Spells | You create a wall of tangled brush bristling with [spell]
+    Score: 0.305 | Words: 51 | Spatial: 3 | Mechanical hits: 1 | Dice: 0
+
+The wall appears within range on a solid surface and lasts for the duration. You choose to make the wall up to 60 feet long, 10 feet high, and 5 feet thick or a circle that has a 20-foot diameter and is up to 20 feet high and 5 feet thick.
+
+----------------------------------------------------------------------
+
+[85] Spells | This spell grants the ability to move across any liquid [spell]
+    Score: 0.225 | Words: 42 | Spatial: 4 | Mechanical hits: 2 | Dice: 0
+
+surface—such as water, acid, mud, snow, quicksand, or lava—as if it were harmless solid ground (creatures crossing molten lava can still take damage from the heat). Up to ten willing creatures of your choice within range gain this ability for the duration.
+
+----------------------------------------------------------------------
+
+[86] Spells | An affected target must take a Bonus Action to [spell]
+    Score: 0.200 | Words: 30 | Spatial: 2 | Mechanical hits: 0 | Dice: 0
+
+pass from the liquid’s surface into the liquid itself and vice versa, but if the target falls into the liquid, the target passes through the surface into the liquid below.
+
+----------------------------------------------------------------------
+
+[87] Spells | If the webs aren’t anchored between two solid [spell]
+    Score: 0.264 | Words: 42 | Spatial: 5 | Mechanical hits: 1 | Dice: 0
+
+masses (such as walls or trees) or layered across a floor, wall, or ceiling, the web collapses on itself, and the spell ends at the start of your next turn. Webs layered over a flat surface have a depth of 5 feet.
+
+----------------------------------------------------------------------
+
+[88] Spells | Duration: Concentration, up to 1 minute [spell]
+    Score: 0.266 | Words: 60 | Spatial: 7 | Mechanical hits: 1 | Dice: 0
+
+A wall of strong wind rises from the ground at a point you choose within range. You can make the wall up to 50 feet long, 15 feet high, and 1 foot thick. You can shape the wall in any way you choose so long as it makes one continuous path along the ground. The wall lasts for the duration.
+
+----------------------------------------------------------------------
+
+[89] Rules Glossary | A creature that has a Burrow Speed can use that [magic_item]
+    Score: 0.274 | Words: 28 | Spatial: 3 | Mechanical hits: 1 | Dice: 0
+
+speed to move through sand, earth, mud, or ice. The creature can’t burrow through solid rock unless the creature has a trait that allows it to do so.
+
+----------------------------------------------------------------------
+
+[90] Rules Glossary | A space is Difficult Terrain if the space contains [environment]
+    Score: 0.276 | Words: 63 | Spatial: 2 | Mechanical hits: 0 | Dice: 0
+
+any of the following or something similar: • A creature that isn’t Tiny or your ally • Furniture that is sized for creatures of your size or larger • Heavy snow, ice, rubble, or undergrowth • Liquid that’s between shin- and waist-deep • A narrow opening sized for a creature one size smaller than you • A slope of 20 degrees or more
+
+----------------------------------------------------------------------
+
+[91] Rules Glossary | If an illusion manifests in space, the illusion is [general]
+    Score: 0.154 | Words: 56 | Spatial: 1 | Mechanical hits: 0 | Dice: 0
+
+insubstantial and weightless, yet it seems to be affected by the environment as if the illusion were real unless the effect that created it specifies oth erwise. For example, a visual illusion of a creature casts shadows and reflections, and wind appears to affect the illusory creature. Similarly, an audible illusion echoes in an echoey space.
+
+----------------------------------------------------------------------
+
+[92] Rules Glossary | This Long Jump rule assumes that the height of [magic_item]
+    Score: 0.198 | Words: 53 | Spatial: 3 | Mechanical hits: 2 | Dice: 0
+
+the jump doesn’t matter, such as a jump across a stream or chasm. At your GM’s option, you must succeed on a DC 10 Strength (Athletics) check to clear a low obstacle (no taller than a quarter of the jump’s distance), such as a hedge or low wall. Otherwise, you hit the obstacle.
+
+----------------------------------------------------------------------
+
+[93] Rules Glossary | Tremorsense [general]
+    Score: 0.310 | Words: 51 | Spatial: 4 | Mechanical hits: 0 | Dice: 0
+
+A creature with Tremorsense can pinpoint the location of creatures and moving objects within a spe cific range, provided that the creature with Trem orsense and anything it is detecting are both in contact with the same surface (such as the ground, a wall, or a ceiling) or the same liquid.
+
+----------------------------------------------------------------------
+
+[94] Gameplay Toolbox | Strong Wind [environment]
+    Score: 0.268 | Words: 36 | Spatial: 3 | Mechanical hits: 1 | Dice: 0
+
+Strong wind imposes Disadvantage on ranged at tack rolls with weapons. It also extinguishes open flames and disperses fog. A flying creature in a strong wind must land at the end of its turn or fall.
+
+----------------------------------------------------------------------
+
+[95] Gameplay Toolbox | Thin Ice [environment]
+    Score: 0.365 | Words: 48 | Spatial: 6 | Mechanical hits: 0 | Dice: 1
+
+Thin ice has a weight tolerance of 3d10 × 10 pounds per 10-foot-square area. Whenever the total weight on an area of thin ice exceeds its tolerance, the ice in that area breaks. All creatures on broken ice fall through. Below the ice is frigid water (see “Frigid
+
+----------------------------------------------------------------------
+
+[96] Gameplay Toolbox | Duration: Instantaneous [general]
+    Score: 0.315 | Words: 34 | Spatial: 3 | Mechanical hits: 0 | Dice: 0
+
+A falling net trap uses a trip wire to release a weighted, 10-foot-square Net suspended from the ceiling. The trip wire is 3 inches off the ground and stretches between two columns or trees.
+
+----------------------------------------------------------------------
+
+[97] Gameplay Toolbox | The best combat encounters often pair one kind of [general]
+    Score: 0.211 | Words: 47 | Spatial: 2 | Mechanical hits: 0 | Dice: 0
+
+creature with another, such as fire giants paired with hell hounds. Be mindful of the number of stat blocks you need to run the encounter. Referencing more than two or three stat blocks for a single en counter can be daunting, particularly if the creatures are complex.
+
+----------------------------------------------------------------------
+
+[98] Magic Items | Staffs [magic_item]
+    Score: 0.165 | Words: 56 | Spatial: 1 | Mechanical hits: 0 | Dice: 0
+
+Items in the Staff category vary widely in appear ance: some are of nearly equal diameter throughout and smooth, others are gnarled and twisted, some are made of wood, and others are composed of pol ished metal or crystal. A staff weighs between 2 and 7 pounds and serves well as a walking stick or cane.
+
+----------------------------------------------------------------------
+
+[99] Magic Items | Wands [magic_item]
+    Score: 0.226 | Words: 31 | Spatial: 2 | Mechanical hits: 1 | Dice: 0
+
+An item in the Wand category is typically 12 to 15 inches long and crafted of metal, bone, or wood. It is tipped with metal, crystal, stone, or some other material.
+
+----------------------------------------------------------------------
+
+[100] Magic Items | Common magic items can often be bought in a [magic_item]
+    Score: 0.237 | Words: 54 | Spatial: 2 | Mechanical hits: 0 | Dice: 0
+
+Uncommon and Rare magic items are usually found only in cities, and rarer magic items might be sold only in wondrous locations, such as a city on another plane of existence. If you allow char acters to buy and sell magic items in your campaign, rarity can help you set prices for those items.
+
+----------------------------------------------------------------------
+
+[101] Spells | GM determines whether appropriate raw materials [spell]
+    Score: 0.264 | Words: 41 | Spatial: 2 | Mechanical hits: 0 | Dice: 0
+
+In a city, there is a 75 percent chance that the materials are available, and in any other settlement, that chance is 25 percent. If materials aren’t available, you must wait at least 7 days before checking on the availability again.
+
+----------------------------------------------------------------------
+
+[102] Spells | Mount Celestia; on an 8,  Ysgard [spell]
+    Score: 0.200 | Words: 42 | Spatial: 2 | Mechanical hits: 0 | Dice: 1
+
+81–90 Random location on an Outer Plane deter mined by rolling 1d8: on a 1, the Abyss; on a 2, Acheron; on a 3, Carceri; on a 4, Gehenna; on a 5, Hades; on a 6, Limbo; on a 7, the Nine
+
+----------------------------------------------------------------------
+
+[103] Spells | The GM determines the time and plane. [spell]
+    Score: 0.220 | Words: 25 | Spatial: 2 | Mechanical hits: 0 | Dice: 0
+
+If the bag is pierced or torn, it is destroyed, and anything contained within it is transported to a random location on the Astral Plane.
+
+----------------------------------------------------------------------
+
+[104] Spells | Hole, or similar item instantly destroys both items [spell]
+    Score: 0.317 | Words: 56 | Spatial: 9 | Mechanical hits: 0 | Dice: 0
+
+and opens a gate to the Astral Plane. The gate orig inates where the one item was placed inside the other. Any creature within a 10-foot-radius Sphere centered on the gate is sucked through it to a ran dom location on the Astral Plane. The gate then closes. The gate is one-way and can’t be reopened.
+
+----------------------------------------------------------------------
+
+[105] Spells | Dexterity (Stealth) checks. In an area of Dim Light [spell]
+    Score: 0.219 | Words: 51 | Spatial: 3 | Mechanical hits: 2 | Dice: 0
+
+or Darkness, you can grip the edges of the cloak and use it to gain a Fly Speed of 40 feet. If you ever fail to grip the cloak’s edges while flying in this way, or if you are no longer in Dim Light or Darkness, you lose this Fly Speed.
+
+----------------------------------------------------------------------
+
+[106] Spells | After the hovering weapon attacks for the fourth [spell]
+    Score: 0.200 | Words: 71 | Spatial: 2 | Mechanical hits: 0 | Dice: 0
+
+time, it flies back to you and tries to return to your hand. If you have no hand free, the weapon falls to the ground in your space. If the weapon has no un obstructed path to you, it moves as close to you as it can and then falls to the ground. It also ceases to hover if you grasp it or are more than 30 feet away from it.
+
+----------------------------------------------------------------------
+
+[107] Spells | You can take a Magic action to remove the stopper [spell]
+    Score: 0.324 | Words: 42 | Spatial: 3 | Mechanical hits: 0 | Dice: 0
+
+and issue one of three command words, whereupon an amount of fresh water or salt water (your choice) pours out of the flask. The water stops pouring out at the start of your next turn. Choose from the fol lowing command words:
+
+----------------------------------------------------------------------
+
+[108] Spells | Large size. The shackles prevent a creature bound [spell]
+    Score: 0.261 | Words: 32 | Spatial: 2 | Mechanical hits: 1 | Dice: 0
+
+by them from using any method of extradimen sional movement, including teleportation or travel to a different plane of existence. They don’t prevent the creature from passing through an interdimen sional portal.
+
+----------------------------------------------------------------------
+
+[109] Spells | Wondrous Item, Uncommon [spell]
+    Score: 0.212 | Words: 78 | Spatial: 4 | Mechanical hits: 2 | Dice: 1
+
+This small packet contains 1d6 + 4 pinches of dust. As a Utilize action, you can sprinkle a pinch of the dust over water, turning up to a 15-foot Cube of water into one marble-sized pellet, which floats or rests near where the dust was sprinkled. The pellet’s weight is negligible. A creature can take a Utilize action to smash the pellet against a hard surface, causing the pellet to shatter and release the water the dust absorbed.
+
+----------------------------------------------------------------------
+
+[110] Spells | When you take a Magic action to remove the stopper [spell]
+    Score: 0.323 | Words: 67 | Spatial: 3 | Mechanical hits: 0 | Dice: 1
+
+of this painted brass bottle, a cloud of thick smoke flows out of it. At the end of your turn, the smoke disappears with a flash of harmless fire, and an Efreeti appears in an unoccupied space within 30 feet of you. The first time the bottle is opened, the GM rolls on the following table to determine what happens. 1d10 Effect 1 The efreeti attacks you.
+
+----------------------------------------------------------------------
+
+[111] Spells | Energy Ladder. As a Magic action, you can loose a [spell]
+    Score: 0.325 | Words: 42 | Spatial: 3 | Mechanical hits: 0 | Dice: 0
+
+flurry of energy arrows from this weapon at a wall up to 60 feet away from yourself. The arrows be come glowing rungs that stick out of the wall, form ing a magical ladder up to 60 feet long on the wall.
+
+----------------------------------------------------------------------
+
+[112] Spells | First Command Word.  The gem sheds Bright Light [spell]
+    Score: 0.242 | Words: 67 | Spatial: 3 | Mechanical hits: 2 | Dice: 0
+
+in a 30-foot radius and Dim Light for an additional 30 feet. This effect doesn’t expend a charge. It lasts until you take a Bonus Action to repeat the command word or until you use another function of the gem. You expend 1 charge and cause the gem to fire a brilliant beam of light at one creature you can see within 60 feet of your self.
+
+----------------------------------------------------------------------
+
+[113] Spells | Placing the haversack inside an extradimensional [spell]
+    Score: 0.322 | Words: 47 | Spatial: 5 | Mechanical hits: 0 | Dice: 0
+
+space created by a Bag of Holding, Portable Hole, or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate and not behind
+
+----------------------------------------------------------------------
+
+[114] Spells | Constrictor Snake ; on a 3, an Elephant ; [spell]
+    Score: 0.238 | Words: 55 | Spatial: 2 | Mechanical hits: 0 | Dice: 1
+
+on a 4, a Mule. 1d100 Effect 86–90 A Hostile Swarm of Bats flies out of the hat, occupies your space, and attacks you. 91–95 A vertical, 10-foot-diameter, two-way portal to another plane of existence opens in an unoccupied space within 30 feet of you and remains open until the end of your next turn.
+
+----------------------------------------------------------------------
+
+[115] Spells | Emanation is filled with Dim Light. Any Undead [spell]
+    Score: 0.153 | Words: 49 | Spatial: 2 | Mechanical hits: 2 | Dice: 1
+
+that starts its turn in that area takes 1d6 Radiant damage. As long as the helm has at least one fire opal, you can take a Magic action to cause one weapon you are holding to burst into flames. The flames emit Bright Light in a 10-foot radius and
+
+----------------------------------------------------------------------
+
+[116] Spells | Spells. You can cast one of the following spells [spell]
+    Score: 0.177 | Words: 27 | Spatial: 2 | Mechanical hits: 1 | Dice: 0
+
+(save DC 18), using one of the helm’s gems of the specified type as a component: Daylight (opal), Fireball (fire opal), Prismatic Spray (diamond), or Wall of
+
+----------------------------------------------------------------------
+
+[117] Spells | As a Magic action, you can place this 1-inch [spell]
+    Score: 0.313 | Words: 78 | Spatial: 7 | Mechanical hits: 0 | Dice: 0
+
+adamantine statuette on the ground and, using a command word, cause it to grow rapidly into a square adamantine tower. Repeating the command word causes the tower to revert to statuette form, which works only if the tower is empty. Each creature in the area where the tower appears is pushed to an unoccupied space outside but next to the tower. Objects in the area that aren’t being worn or carried are also pushed clear of the tower.
+
+----------------------------------------------------------------------
+
+[118] Spells | As a Magic action, you can place this 1-inch [spell]
+    Score: 0.321 | Words: 72 | Spatial: 3 | Mechanical hits: 0 | Dice: 0
+
+Objects in the area that aren’t being worn or carried are also pushed clear of the tower. The tower is 20 feet on a side and 30 feet high, with arrow slits on all sides and a battlement atop it. Its interior is divided into two floors, with a lad der, staircase, or ramp (your choice) connecting them. This ladder, staircase, or ramp ends at a trap door leading to the roof.
+
+----------------------------------------------------------------------
+
+[119] Spells | When you take a Magic action to toss an Ioun [spell]
+    Score: 0.300 | Words: 38 | Spatial: 3 | Mechanical hits: 0 | Dice: 1
+
+Stone into the air, the stone orbits your head at a distance of 1d3 feet, conferring its benefit to you while doing so. You can have up to three Ioun Stones orbiting your head at the same time.
+
+----------------------------------------------------------------------
+
+[120] Spells | As a Utilize action, you can seize and stow any [spell]
+    Score: 0.313 | Words: 38 | Spatial: 3 | Mechanical hits: 0 | Dice: 0
+
+number of Ioun Stones orbiting your head. If your Attunement to an Ioun Stone ends while it’s orbiting your head, the stone falls as though you had dropped it. The type of stone determines its rarity and effects.
+
+----------------------------------------------------------------------
+
+[121] Spells | Wondrous Item, Uncommon [spell]
+    Score: 0.396 | Words: 50 | Spatial: 3 | Mechanical hits: 1 | Dice: 0
+
+While lit, this hooded lantern burns for 6 hours on 1 pint of oil, shedding Bright Light in a 30-foot radius and Dim Light for an additional 30 feet. Invisible creatures and objects are visible as long as they are in the lantern’s Bright Light. You can take a Utilize
+
+----------------------------------------------------------------------
+
+[122] Spells | When the work is done, all the painted objects [spell]
+    Score: 0.327 | Words: 75 | Spatial: 3 | Mechanical hits: 0 | Dice: 0
+
+and terrain features become real. Thus, painting a door on a wall creates an actual door, which can be opened to whatever is beyond. Painting a pit creates a real pit, the entire depth of which must lie within the 20-foot Cube. No object created by a pot of pigment can have a value greater than 25 GP, and the total value of all objects created by a pot of pigment can’t exceed 500 GP.
+
+----------------------------------------------------------------------
+
+[123] Spells | When the work is done, all the painted objects [spell]
+    Score: 0.238 | Words: 26 | Spatial: 2 | Mechanical hits: 0 | Dice: 0
+
+If you paint a form of energy such as fire or light ning, the energy dissipates as soon as you complete the painting, doing no harm.
+
+----------------------------------------------------------------------
+
+[124] Spells | An extradimensional cell is an infinite expanse [spell]
+    Score: 0.347 | Words: 51 | Spatial: 3 | Mechanical hits: 0 | Dice: 0
+
+filled with thick fog that reduces visibility to 10 feet. Creatures trapped in the mirror’s cells don’t age, and they don’t need to eat, drink, or sleep. A creature trapped within a cell can escape using magic that permits planar travel. Otherwise, the creature is confined to the cell until freed.
+
+----------------------------------------------------------------------
+
+[125] Spells | Placing the mirror inside an extradimensional [spell]
+    Score: 0.327 | Words: 74 | Spatial: 9 | Mechanical hits: 0 | Dice: 0
+
+space created by a Bag of Holding, Portable Hole, or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate and not behind Total Cover is sucked through it to a random location on the Astral Plane. The gate then closes. The gate is one-way only and can’t be reopened.
+
+----------------------------------------------------------------------
+
+[126] Spells | Throne. You gain proficiency and Expertise in [spell]
+    Score: 0.330 | Words: 66 | Spatial: 3 | Mechanical hits: 0 | Dice: 0
+
+your choice of History, Insight, Intimidation, or Per suasion. In addition, you gain rightful ownership of a small keep somewhere in the world. However, the keep is currently home to one or more monsters, which must be cleared out before you can claim the keep as yours. Your soul is drawn from your body and contained in an object in a place of the GM’s choice.
+
+----------------------------------------------------------------------
+
+[127] Spells | System Reference Document 5.2.1 [spell]
+    Score: 0.214 | Words: 45 | Spatial: 1 | Mechanical hits: 0 | Dice: 0
+
+235 extradimensional hole 10 feet deep. The cylindrical space within the hole exists on a different plane of existence, so it can’t be used to create open pas sages. Any creature inside an open Portable Hole can exit the hole by climbing out of it.
+
+----------------------------------------------------------------------
+
+[128] Spells | Placing a Portable Hole inside an extradimensional [spell]
+    Score: 0.311 | Words: 47 | Spatial: 5 | Mechanical hits: 0 | Dice: 0
+
+space created by a Bag of Holding, Handy Haversack, or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate and not behind
+
+----------------------------------------------------------------------
+
+[129] Spells | Each Ring of Elemental Command is linked to one of [spell]
+    Score: 0.169 | Words: 41 | Spatial: 7 | Mechanical hits: 3 | Dice: 0
+
+the four Elemental Planes. The GM chooses or ran domly determines the linked plane. For example, a Ring of Elemental Command (air) is linked to the Ele mental Plane of Air. Every Ring of Elemental Command has the following two properties:
+
+----------------------------------------------------------------------
+
+[130] Spells | Earth.  You know Terran, and you have Resistance [spell]
+    Score: 0.333 | Words: 60 | Spatial: 4 | Mechanical hits: 0 | Dice: 0
+
+Terrain composed of rubble, rocks, or dirt isn’t Difficult Terrain for you. In ad dition, you can move through solid earth or rock as if those areas were Difficult Terrain without disturbing the matter through which you pass. If you end your turn in solid earth or rock, you are shunted out to the nearest unoccupied space you last occupied.
+
+----------------------------------------------------------------------
+
+[131] Spells | System Reference Document 5.2.1 [spell]
+    Score: 0.219 | Words: 29 | Spatial: 2 | Mechanical hits: 0 | Dice: 0
+
+240 foot of stone, 1 inch of common metal, or up to 3 feet of wood or dirt. Thicker substances or a thin sheet of lead block the vision.
+
+----------------------------------------------------------------------
+
+[132] Spells | System Reference Document 5.2.1 [spell]
+    Score: 0.187 | Words: 32 | Spatial: 1 | Mechanical hits: 0 | Dice: 1
+
+241 1d100 Patch 84–90 2 Mastiffs 91–96 Window (2 feet by 4 feet, up to 2 feet deep), which you can place on a vertical surface you can reach 97–00 Portable Ram
+
+----------------------------------------------------------------------
+
+[133] Spells | Protective Aura.  As a Magic action, you can plant [spell]
+    Score: 0.205 | Words: 63 | Spatial: 5 | Mechanical hits: 4 | Dice: 0
+
+the haft end of the rod in the ground, whereupon the rod’s head sheds Bright Light in a 60-foot radius and Dim Light for an additional 60 feet. While in that Bright Light, you and your allies gain a +1 bonus to Armor Class and saving throws and can sense the location of any Invisible creature that is also in the Bright Light.
+
+----------------------------------------------------------------------
+
+[134] Spells | While holding this rod, you can take a Magic action [spell]
+    Score: 0.353 | Words: 74 | Spatial: 5 | Mechanical hits: 0 | Dice: 0
+
+The rod then instantly transports you and up to 199 other willing creatures you can see to a demiplane. You choose the form the demiplane takes. It could be a tranquil garden, a cheery tavern, an immense palace, a tropical island, a fantastic car nival, or whatever else you can imagine. Regardless of its nature, the demiplane contains enough water and food to sustain its visitors, and the demiplane’s environment can’t harm its occupants.
+
+----------------------------------------------------------------------
+
+[135] Spells | Sending Stones come in pairs, with each stone [spell]
+    Score: 0.240 | Words: 55 | Spatial: 4 | Mechanical hits: 1 | Dice: 0
+
+carved to match the other so the pairing is easily recognized. While you touch one stone, you can cast Sending from it. The target is the bearer of the other stone. If no creature bears the other stone, you know that fact as soon as you use the stone, and you don’t cast the spell.
+
+----------------------------------------------------------------------
+
+[136] Spells | Sphere Interactions.  If the sphere comes into [spell]
+    Score: 0.214 | Words: 35 | Spatial: 2 | Mechanical hits: 1 | Dice: 0
+
+contact with a planar portal (such as that created by the Gate spell) or an extradimensional space (such as that within a Portable Hole ), the GM determines randomly what happens using the following table.
+
+----------------------------------------------------------------------
+
+[137] Spells | System Reference Document 5.2.1 [spell]
+    Score: 0.238 | Words: 45 | Spatial: 2 | Mechanical hits: 0 | Dice: 1
+
+245 1d100 Result 01–50 The sphere is destroyed. 51–85 The sphere moves through the portal or into the extradimensional space. 86–00 A spatial rift sends the sphere and each crea ture and object within 180 feet of the sphere to a random plane of existence.
+
+----------------------------------------------------------------------
+
+[138] Spells | Bright Light in a 15-foot radius and Dim Light for [spell]
+    Score: 0.376 | Words: 48 | Spatial: 3 | Mechanical hits: 1 | Dice: 0
+
+an additional 15 feet. The light is sunlight. While the blade persists, you can take a Magic action to expand or reduce its radius of Bright Light and Dim Light by 5 feet each, to a maximum of 30 feet each or a minimum of 10 feet each.
+
+----------------------------------------------------------------------
+
+[139] Spells | Magic action to expend 1 charge and target one [spell]
+    Score: 0.150 | Words: 30 | Spatial: 1 | Mechanical hits: 0 | Dice: 0
+
+In either case, the fissure then closes, leaving no trace of its existence. When you expend the last charge, the talisman disperses into motes of golden light and is destroyed.
+
+----------------------------------------------------------------------
+
+[140] Spells | Rat appears. [spell]
+    Score: 0.365 | Words: 55 | Spatial: 3 | Mechanical hits: 0 | Dice: 1
+
+61–64 Grass covers a 60-foot-radius circle of ground, with the center of that circle as close to the chosen point of origin as possible. Grass that’s already there grows to ten times its normal size and remains overgrown for 1 minute. 1d100 Effect 65–68 An object of the GM’s choice disappears into the Ethereal Plane.
+
+----------------------------------------------------------------------
+
+[141] Spells | Wondrous Item, Legendary [spell]
+    Score: 0.298 | Words: 76 | Spatial: 4 | Mechanical hits: 1 | Dice: 0
+
+This fine black cloth, soft as silk, is folded up to the dimensions of a handkerchief. It unfolds into a cir cular sheet 6 feet in diameter. You can take a Magic action to unfold the Well of Many Worlds and place it on a solid surface, where upon it forms a two-way, 6-foot-diameter, circular portal to another world or plane of existence. Each time the item opens a portal, the GM decides where it leads.
+
+----------------------------------------------------------------------
+
+[142] Spells | Wondrous Item, Legendary [spell]
+    Score: 0.288 | Words: 63 | Spatial: 3 | Mechanical hits: 1 | Dice: 1
+
+Each time the item opens a portal, the GM decides where it leads. The portal remains open until a creature within 5 feet of it takes a Magic action to close it by taking hold of the edges of the cloth and folding it up. Once the Well of Many Worlds has opened a portal, it can’t do so again for 1d8 hours.
+
+----------------------------------------------------------------------
+
+[143] Monsters | Traits [general]
+    Score: 0.167 | Words: 33 | Spatial: 3 | Mechanical hits: 3 | Dice: 1
+
+At the end of each of the elemental’s turns, each creature in a 10-foot Emanation originating from the elemental takes 5 (1d10) Fire damage. Creatures and flammable objects in the Emanation start burning.
+
+----------------------------------------------------------------------
+
+[144] Monsters | Fire Form. The elemental can move through a space as [spell]
+    Score: 0.243 | Words: 57 | Spatial: 4 | Mechanical hits: 3 | Dice: 1
+
+narrow as 1 inch without expending extra movement to do so, and it can enter a creature’s space and stop there. The first time it enters a creature’s space on a turn, that creature takes 5 (1d10) Fire damage. The elemental sheds Bright Light in a 30foot radius and Dim Light for an additional 30 feet. 285
+
+----------------------------------------------------------------------
+
+[145] Monsters | System Reference Document 5.2.1 [general]
+    Score: 0.211 | Words: 25 | Spatial: 4 | Mechanical hits: 3 | Dice: 1
+
+The elemental takes 3 (1d6) Cold damage for every 5 feet the elemental moves in water or for every gallon of water splashed on it.
+
+----------------------------------------------------------------------
+
+[146] Monsters | Traits [general]
+    Score: 0.321 | Words: 34 | Spatial: 3 | Mechanical hits: 2 | Dice: 0
+
+The nightmare can grant Resistance to Fire damage to a rider while it is on the nightmare. The nightmare sheds Bright Light in a 10foot radius and Dim Light for an additional 10 feet.
+
+----------------------------------------------------------------------
+
+[147] Monsters | Traits [general]
+    Score: 0.285 | Words: 34 | Spatial: 3 | Mechanical hits: 1 | Dice: 0
+
+The spider can see 60 feet into the Ethereal Plane while on the Material Plane and vice versa. The spider can climb difficult surfaces, including along ceilings, without needing to make an ability check.
+
+----------------------------------------------------------------------
+

@@ -30,6 +30,13 @@ import csv
 from pathlib import Path
 from dataclasses import dataclass, asdict
 
+try:
+    import pypdf
+except ImportError:
+    print("ERROR: pypdf library not found. Please install it:")
+    print("  pip install pypdf")
+    exit(1)
+
 
 # ---------------------------------------------------------------------------
 # 0. CONFIGURABLE THRESHOLDS
@@ -489,14 +496,49 @@ def score_descriptiveness(text: str) -> tuple[float, int, int]:
 
 
 # ---------------------------------------------------------------------------
-# 6. MAIN PIPELINE
+# 6. PDF TEXT EXTRACTION
+# ---------------------------------------------------------------------------
+
+def extract_text_from_pdf(pdf_path: str) -> str:
+    """
+    Extract text from PDF file using pypdf.
+    Returns the concatenated text from all pages.
+    """
+    print(f"  Extracting text from PDF...")
+    try:
+        with open(pdf_path, 'rb') as file:
+            reader = pypdf.PdfReader(file)
+            num_pages = len(reader.pages)
+            print(f"  PDF has {num_pages} pages")
+
+            text_parts = []
+            for page_num, page in enumerate(reader.pages, 1):
+                if page_num % 50 == 0:  # Progress indicator
+                    print(f"    Processing page {page_num}/{num_pages}...")
+                text_parts.append(page.extract_text())
+
+            full_text = '\n'.join(text_parts)
+            return full_text
+    except Exception as e:
+        print(f"ERROR: Failed to extract text from PDF: {e}")
+        exit(1)
+
+
+# ---------------------------------------------------------------------------
+# 7. MAIN PIPELINE
 # ---------------------------------------------------------------------------
 
 def run_pipeline(input_path: str,
                  output_txt: str) -> None:
 
     print(f"Reading: {input_path}")
-    raw = Path(input_path).read_text(encoding='utf-8', errors='replace')
+
+    # Check if input is PDF or text file
+    if input_path.lower().endswith('.pdf'):
+        raw = extract_text_from_pdf(input_path)
+    else:
+        raw = Path(input_path).read_text(encoding='utf-8', errors='replace')
+
     print(f"  Raw file size: {len(raw):,} chars")
 
     # Stage 1 — clean text artifacts
@@ -612,7 +654,7 @@ def run_pipeline(input_path: str,
     # Stage 5 — write outputs
 
 
-    print(f"  Writing TXT  → {output_txt}")
+    print(f"  Writing TXT -> {output_txt}")
     with open(output_txt, 'w', encoding='utf-8') as f:
         f.write(f"D&D SRD 5.2.1 DESCRIPTIVE PASSAGES\n")
         f.write(f"Source: System Reference Document 5.2.1 (CC-BY-4.0)\n")
@@ -637,7 +679,7 @@ def run_pipeline(input_path: str,
 
 
 # ---------------------------------------------------------------------------
-# 7. ENTRY POINT
+# 8. ENTRY POINT
 # ---------------------------------------------------------------------------
 
 if __name__ == "__main__":
